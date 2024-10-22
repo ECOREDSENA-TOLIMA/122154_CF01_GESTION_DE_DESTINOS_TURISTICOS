@@ -1,7 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE_DEL_COMPONENTE_FORMATIVO',
-    descripcionCurso: 'BREVE_DESCRIPCIÓN',
+    componenteFormativo: 'Fundamentos del turismo y gestión del patrimonio',
+    descripcionCurso:
+      'Este componente formativo explora los fundamentos del turismo y la gestión del patrimonio, abarcando el turismo, la geografía turística y el patrimonio cultural y natural. Se enfoca en el análisis de destinos, atractivos, tipologías de turistas, y tendencias de consumo, brindando herramientas para la adecuada valoración y gestión del territorio turístico.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -31,13 +32,33 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Turismo',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo_de_segundo_nivel',
+            titulo: 'Tipología de turismo',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Atractivos',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Recursos',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Destinos',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'Sistema turístico',
+            hash: 't_1_5',
           },
         ],
       },
@@ -45,14 +66,88 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Geografía turística',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Ruta',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Inventario',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Geografía general',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Espacios geográficos turísticos',
+            hash: 't_2_4',
+          },
+          {
+            numero: '2.5',
+            titulo: 'Georreferencia',
+            hash: 't_2_5',
+          },
+          {
+            numero: '2.6',
+            titulo: 'Cartografía',
+            hash: 't_2_6',
+          },
+          {
+            numero: '2.7',
+            titulo: 'Metodología de inventario',
+            hash: 't_2_7',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Patrimonio',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Bienes culturales',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Bienes naturales',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Identidad cultural',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'Tipología de turistas',
+            hash: 't_3_4',
+          },
+          {
+            numero: '3.5',
+            titulo: 'Tendencias de consumo del turista',
+            hash: 't_3_5',
+          },
+          {
+            numero: '3.6',
+            titulo: 'Oferta turística del territorio',
+            hash: 't_3_6',
+          },
+          {
+            numero: '3.7',
+            titulo: 'Valoración del territorio',
+            hash: 't_3_7',
+          },
+        ],
       },
     ],
     subMenu: [

@@ -13,7 +13,7 @@ export default {
   name: 'ActividadDidactica',
   data: () => ({
     cuestionario: {
-      tema: 'Nombre del componente formativo',
+      tema: 'Fundamentos del turismo y gestión del patrimonio',
       titulo: 'Cuestionario',
       introduccion: '<b> Objetivo:</b> Texto de Word',
       barajarPreguntas: true,

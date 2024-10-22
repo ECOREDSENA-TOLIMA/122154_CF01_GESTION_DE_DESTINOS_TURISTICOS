@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59" height="59" viewBox="0 0 59 59">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_401158" data-name="Rectangle 401158" width="56.629" height="57.75" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1099511" data-name="Group 1099511" transform="translate(-418.137 -6042.469)">
+    <rect id="Rectangle_401104" data-name="Rectangle 401104" width="59" height="59" transform="translate(418.137 6042.469)" fill="none"/>
+    <g id="Group_1099534" data-name="Group 1099534" transform="translate(419.137 6043.469)">
+      <g id="Group_1099533" data-name="Group 1099533" transform="translate(0 0)">
+        <g id="Group_1099532" data-name="Group 1099532" clip-path="url(#clip-path)">
+          <path id="Path_873670" data-name="Path 873670" d="M56.629,28.875c0,15.947-12.677,28.875-28.314,28.875S0,44.822,0,28.875,12.676,0,28.314,0,56.629,12.928,56.629,28.875" transform="translate(0 0)" fill="#f2b92c"/>
+          <path id="Path_873671" data-name="Path 873671" d="M30.664,56.519c-13.652,0-24.759-11.326-24.759-25.249S17.012,6.022,30.664,6.022,55.423,17.348,55.423,31.271,44.315,56.519,30.664,56.519m0-46.826A21.4,21.4,0,0,0,9.5,31.271,21.4,21.4,0,0,0,30.664,52.848,21.4,21.4,0,0,0,51.823,31.271,21.4,21.4,0,0,0,30.664,9.693" transform="translate(-2.349 -2.396)" fill="#fff"/>
+        </g>
+      </g>
+      <text id="_" data-name="$" transform="translate(18.379 37.766)" fill="#fff" font-size="28" font-family="Montserrat-Black, Montserrat" font-weight="800"><tspan x="0" y="0">$</tspan></text>
+    </g>
+  </g>
+</svg>
