@@ -217,21 +217,21 @@
     p.mb-5(data-aos="fade-left") Según Bhatia (2005), este sistema es dinámico y se ve influenciado por diversos factores externos como: 
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
-      .col-lg-4.mb-4.mb-lg-0
+      .col-xl-6.col-lg-8.mb-4.mb-xl-5
         .crd.crd--grayGrad(data-aos="flip-left")
           .bottomCircle.mb-5
             figure
               img(src="@/assets/curso/temas/tema1/img16.png", alt="alt").img90.m-auto
           h4.text-center Economía
           p.text-center.mb-0 Las condiciones económicas globales y locales afectan el poder adquisitivo de los turistas y, por lo tanto, su disposición a viajar.
-      .col-lg-4.mb-4.mb-lg-0
+      .col-xl-6.col-lg-8.mb-4.mb-xl-5
         .crd.crd--grayGrad(data-aos="flip-left")
           .bottomCircle.mb-5
             figure
               img(src="@/assets/curso/temas/tema1/img17.png", alt="alt").img90.m-auto
           h4.text-center Tecnología
           p.text-center.mb-0 Avances tecnológicos influyen en cómo se planifican, reservan y experimentan los viajes. Por ejemplo, el uso de aplicaciones móviles para reservas y guías de viaje.
-      .col-lg-4.mb-4.mb-lg-0
+      .col-xl-6.col-lg-8.mb-4.mb-xl-5
         .crd.crd--grayGrad(data-aos="flip-left")
           .bottomCircle.mb-5
             figure
