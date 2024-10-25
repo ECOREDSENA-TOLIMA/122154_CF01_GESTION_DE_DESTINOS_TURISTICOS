@@ -9,7 +9,7 @@
 
     .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="flip-up")
       .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img01.png')})`}"
+        :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img18.png')})`}"
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 La geografía turística estudia la relación entre el espacio geográfico y las actividades turísticas. Implica analizar el uso del territorio, los atractivos naturales y culturales, así como la infraestructura y servicios que sostienen la actividad turística. Este enfoque es esencial para gestionar el impacto del turismo en las áreas geográficas, tanto en términos de sostenibilidad como de desarrollo socioeconómico.

@@ -197,28 +197,116 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tema_complementario',
-      referencia: 'Referencia_complementario',
-      tipo: 'Tipo_complementario',
-      link: 'Link_complementario',
+      tema: '1.4 Destinos',
+      referencia:
+        'Ecosistema de Recursos Educativos SENA. (2022). Caracterización del destino [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=Izujyb3NjdE',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: '2. Geografía turística',
+      referencia:
+        'Ecosistema de Recursos Educativos SENA. (2022). Geografia turística [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=aQokH-6FxOU',
     },
   ],
   glosario: [
     {
-      termino: 'Termino_glosario',
-      significado: 'Significado_glosario',
+      termino: 'Atractivos turísticos',
+      significado:
+        'elementos, naturales o culturales, que motivan el desplazamiento de turistas a un destino específico.',
+    },
+    {
+      termino: 'Bienes culturales',
+      significado:
+        'conjunto de elementos tangibles e intangibles que representan la herencia cultural de una sociedad, como monumentos, tradiciones y festividades.',
+    },
+    {
+      termino: 'Bienes naturales',
+      significado:
+        'recursos del entorno natural, como montañas, ríos y parques, que son valorados por su belleza y su capacidad para atraer turistas.',
+    },
+    {
+      termino: 'Cartografía',
+      significado:
+        'ciencia y técnica de elaborar mapas geográficos, esenciales para la planificación y el estudio de destinos turísticos.',
+    },
+    {
+      termino: 'Destino turístico',
+      significado:
+        'lugar geográfico que los turistas eligen para visitar, que ofrece atractivos, servicios e infraestructuras específicas.',
+    },
+    {
+      termino: 'Geografía turística',
+      significado:
+        'estudio de los espacios geográficos utilizados para el turismo y la relación entre los turistas y el entorno.',
+    },
+    {
+      termino: 'Inventario turístico',
+      significado:
+        'registro detallado de los recursos y atractivos disponibles en un destino, con el fin de planificar y gestionar su desarrollo.',
+    },
+    {
+      termino: 'Patrimonio',
+      significado:
+        'conjunto de bienes, tanto naturales como culturales, que son heredados y preservados por una sociedad para las generaciones futuras.',
+    },
+    {
+      termino: 'Sistema turístico',
+      significado:
+        'conjunto de elementos interrelacionados que incluyen turistas, empresas, destinos y gobiernos, que interactúan para formar la actividad turística.',
+    },
+    {
+      termino: 'Tipología de turismo',
+      significado:
+        'clasificación de las diferentes formas de turismo según la motivación del viajero o el tipo de actividad realizada, como turismo cultural, de aventura o de salud.',
     },
   ],
   referencias: [
     {
-      referencia: 'Nombre_referencias',
-      link: 'Link_referencias',
+      referencia:
+        'Bhatia, A. (2005). Gestión internacional del turismo. Editorial Síntesis.',
+      link: '',
+    },
+    {
+      referencia:
+        'Cooper, C., Fletcher, J., Gilbert, D., & Wanhill, S. (2008). Turismo: principios y práctica. Pearson Educación.',
+      link: '',
+    },
+    {
+      referencia:
+        'Jafari, J. (1987). Tourism models: The sociocultural aspect. Annals of Tourism Research, 14(1), 67-79.',
+      link: '',
+    },
+    {
+      referencia:
+        'Jafari, J. (1996). La sociología del turismo. En R. J. H. McIntosh (Ed.), Investigaciones en turismo (pp. 45-60). Universidad de Granada.',
+      link: '',
+    },
+    {
+      referencia:
+        'Mathieson, A., & Wall, G. (1982). Turismo: impactos económicos, físicos y sociales. Ediciones Paraninfo.',
+      link: '',
+    },
+    {
+      referencia:
+        'Organización Mundial del Turismo. (2020). Informe global sobre COVID-19 y turismo. OMT.',
+      link: '',
+    },
+    {
+      referencia: 'Page, S. J. (2014). Gestión del turismo. Pearson Educación.',
+      link: '',
+    },
+    {
+      referencia:
+        'Smith, M. (2010). Cuestiones en estudios de turismo cultural. Ediciones del Serbal.',
+      link: '',
+    },
+    {
+      referencia:
+        'Urry, J. (1990). La mirada del turista: ocio y viajes en las sociedades contemporáneas. Ediciones Akal.',
+      link: '',
     },
   ],
   creditos: [
@@ -226,7 +314,7 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
+          nombre: 'Milady Tatiana Villamil Castellanos',
           cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
@@ -241,9 +329,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Nombre_rol',
-          centro: 'Nombre_centro_formación',
+          nombre: 'Dora Inés Sánchez Escobar',
+          cargo: 'Experta temática',
+          centro: 'Centro Comercio y Servicios - Regional Risaralda',
+        },
+        {
+          nombre: 'Viviana Esperanza Herrera Quiñonez',
+          cargo: 'Evaluadora instruccional ',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
@@ -251,18 +344,33 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre_responsable',
+          nombre: 'Oscar Ivan Uribe Ortiz',
           cargo: 'Diseñador web',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Diego Fernando Velasco Güiza',
-          cargo: 'Desarrollador Fullstack',
+          nombre: 'Jose Yobani Penagos Mora',
+          cargo: 'Diseñador web',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Animación y producción audiovisual',
+          nombre: 'Sebastian Trujillo Afanador',
+          cargo: 'Desarrollador <i>full stack</i>',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Diego Fernando Velasco Güiza',
+          cargo: 'Desarrollador <i>full stack</i>',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Animador y productor audiovisual',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Ernesto Navarro Jaimes',
+          cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
@@ -271,18 +379,23 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Evaluación de contenidos inclusivos y accesibles',
+          nombre: 'Norma Constanza Morales Cruz',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Validación de recursos educativos digitales',
+          nombre: 'Jorge Eduardo Rueda Peña',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Validación de recursos educativos digitales',
+          nombre: 'Jorge Bustos Gómez',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Javier Mauricio Oviedo ',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],

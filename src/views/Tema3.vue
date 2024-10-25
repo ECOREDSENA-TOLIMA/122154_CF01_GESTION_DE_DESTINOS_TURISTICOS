@@ -295,7 +295,7 @@
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
         .cajon.cajon1.p-4
-          .row.justify-content-center
+          .row.justify-content-center.align-items-center
             .col-xl-4.col-lg-4.col-6.d-lg-flex.d-none
               figure
                 img(src='@/assets/curso/temas/tema3/img27.svg', alt='Imagen decorativa')
@@ -322,7 +322,7 @@
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
         .cajon.cajon1.p-4
-          .row.justify-content-center
+          .row.justify-content-center.align-items-center
             .col-xl-4.col-lg-4.col-6.d-lg-flex.d-none
               figure
                 img(src='@/assets/curso/temas/tema3/img28.svg', alt='Imagen decorativa')
@@ -366,7 +366,7 @@
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
         .cajon.cajon1.p-4
-          .row.justify-content-center
+          .row.justify-content-center.align-items-center
             .col-xl-4.col-lg-4.col-6.d-lg-flex.d-none
               figure
                 img(src='@/assets/curso/temas/tema3/img30.svg', alt='Imagen decorativa')
@@ -399,9 +399,118 @@
     #t_3_6.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.6 Oferta turística del territorio
 
+    p.mb-5(data-aos="fade-left") La oferta turística del territorio engloba el conjunto de bienes, servicios e infraestructuras disponibles para satisfacer las necesidades y expectativas de los turistas. Este concepto no se limita a los atractivos naturales y culturales, sino que también incluye los servicios complementarios que permiten a los visitantes disfrutar de una experiencia integral. Una oferta turística competitiva y bien estructurada contribuye al posicionamiento de un destino en el mercado global. Los principales componentes de la oferta turística son:
+
+    .tarjeta.tarjeta--BG01.p-4.mb-5
+      .tarjeta.tarjeta--blanca.p-4
+        PasosB.color-acento-botones
+          .row.justify-content-center.p-4(titulo=" ")
+            .col-lg-7.order-lg-1.order-2
+              h4 Los atractivos turísticos
+              p Son el núcleo de la oferta de un destino, y pueden ser de naturaleza cultural, histórica, o natural. Estos incluyen:
+              ul.lista-ul
+                li.mb-0 
+                  i.lista-ul__vineta
+                  | Atractivos naturales, como parques nacionales, playas y montañas.
+                li 
+                  i.lista-ul__vineta
+                  | Atractivos culturales e históricos, como monumentos, museos, y festivales locales.
+              p La diversidad y singularidad de los atractivos son claves para atraer diferentes tipos de turistas. Por ejemplo, un destino con una mezcla de turismo cultural y de naturaleza puede atraer tanto a viajeros interesados en la historia como a quienes buscan aventuras al aire libre.
+          
+            .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+              figure
+                img(src='@/assets/curso/temas/tema3/img33.png', alt='Imagen decorativa')
+
+          .row.justify-content-center.p-4(titulo=" ")
+            .col-lg-7.order-lg-1.order-2
+              h4 La infraestructura turística
+              p Incluye todas las facilidades que permiten a los turistas disfrutar del destino de manera cómoda y segura. Entre los elementos clave se encuentran:
+              ul.lista-ul
+                li 
+                  i.lista-ul__vineta
+                  | Alojamiento, desde hoteles y hostales hasta opciones más modernas como Airbnb.
+                li 
+                  i.lista-ul__vineta
+                  | Restauración, con una oferta que abarca desde la comida rápida hasta la alta gastronomía.
+                li 
+                  i.lista-ul__vineta
+                  | Transporte, tanto para llegar al destino (aeropuertos, estaciones de tren) como para desplazarse dentro de él (transporte público, alquiler de coches).
+          
+            .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+              figure
+                img(src='@/assets/curso/temas/tema3/img32.png', alt='Imagen decorativa')
+
+          .row.justify-content-center.p-4(titulo=" ")
+            .col-lg-7.order-lg-1.order-2
+              h4 Los servicios turísticos
+              p Complementan la experiencia del visitante y pueden incluir:
+              ul.lista-ul
+                li.mb-0 
+                  i.lista-ul__vineta
+                  | Guías turísticos, que ofrecen una inmersión más profunda en la cultura e historia local.
+                li.mb-0 
+                  i.lista-ul__vineta
+                  | Excursiones y actividades recreativas, adaptadas a las preferencias de los turistas, como visitas a sitios de interés, deportes de aventura, o tours gastronómicos. 
+                li 
+                  i.lista-ul__vineta
+                  | Centros de información turística, que brindan asistencia y orientación a los viajeros.
+              p Estos servicios son esenciales para enriquecer la experiencia del turista y garantizar su satisfacción.
+          
+            .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+              figure
+                img(src='@/assets/curso/temas/tema3/img34.png', alt='Imagen decorativa')
+
+    p.mb-5(data-aos="fade-left") Según Cooper et al. (2008), la diversificación de la oferta es fundamental para que un destino se mantenga competitivo en un mercado turístico global. Adaptar la oferta a diferentes segmentos de turistas culturales, de aventura, de negocios, entre otros, es esencial para atraer un público más amplio y para fomentar la fidelización de los visitantes.
+
+    .row.justify-content-center.mb-5(data-aos="flip-up")
+      .col-lg-10.col-12
+        .row.justify-content-center.align-items-center
+          .col-lg-6.d-lg-flex.d-none
+            figure
+              img(src='@/assets/curso/temas/tema3/img35.png', alt='Imagen decorativa')
+          .col-lg-6.col-12
+            p Los destinos que innovan en su oferta turística y buscan diferenciarse en el mercado a través de experiencias únicas y auténticas logran un mejor posicionamiento.
+            .cajon.cajon.color-secundario.p-4.mb-4
+              p.mb-0 <b>Ejemplo</b>: París no solo es conocida por sus monumentos icónicos como la Torre Eiffel, sino también por su gastronomía, moda y una robusta infraestructura turística que incluye una vasta red de hoteles, transporte eficiente y una amplia oferta cultural.
+
+    p.mb-5(data-aos="fade-left") En línea con las tendencias de consumo del turista, los destinos deben adaptar su oferta para incluir experiencias sostenibles, personalizadas y tecnológicamente avanzadas. Por ejemplo, destinos que promueven el turismo sostenible deben integrar prácticas respetuosas con el medio ambiente, como el uso de energías renovables en alojamientos y la promoción de actividades ecológicas.
+    p.mb-5(data-aos="fade-left") Asimismo, el uso de la tecnología en la oferta turística, como aplicaciones móviles para reservas, visitas guiadas digitales o sistemas de realidad aumentada, puede mejorar significativamente la experiencia del turista y hacerlo más atractivo para los viajeros más tecnológicos.
+
     separador
     #t_3_7.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.7 Valoración del territorio
+
+    p.mb-5(data-aos="fade-left") La valoración del territorio es el proceso de identificar y evaluar los recursos turísticos de una región para maximizar su potencial. Esta valoración implica analizar:
+
+    .row.justify-content-center(data-aos="flip-up")
+      .col-lg-10.desktop
+        ImagenInfografica.color-acento-botones.mb-5
+          template(v-slot:imagen)
+            figure
+              img(src='@/assets/curso/temas/tema3/img36.svg', alt='Imagen decorativa')
+          .tarjeta.color3.p-3(x="22%" y="9.6%" numero="+")
+            p ¿Cuáles son los elementos más destacados que atraen visitantes?
+          .tarjeta.color3.p-3(x="50%" y="9.6%" numero="+")
+            p ¿Cuántos turistas puede soportar  el destino sin afectar su sostenibilidad?
+          .tarjeta.color3.p-3(x="78%" y="10%" numero="+")
+            p ¿Qué tan fácil es para los turistas  llegar al destino?
+
+    .row.justify-content-center.mb-5(data-aos="flip-up")
+      .col-md-8.col-12.movil
+        figure
+          img(src='@/assets/curso/temas/tema3/img37.svg', alt='Imagen decorativa')
+
+    .row.justify-content-center.mb-5(data-aos="flip-up")
+      .col-lg-10.col-12
+        .row.justify-content-center.align-items-center
+          .col-lg-6.col-12
+            p Bhatia (2005) menciona que una valoración adecuada del territorio es esencial para la planificación y gestión eficiente del turismo, asegurando un equilibrio entre el desarrollo económico y la preservación de los recursos.
+            .cajon.cajon.color-secundario.p-4.mb-4
+              p.mb-0 <b>Ejemplo</b>: la valoración del Patrimonio de la Humanidad en Machu Picchu, ha llevado a la implementación de medidas de conservación y gestión de visitantes para proteger tanto el sitio como la experiencia del turista.
+          .col-lg-6.d-lg-flex.d-none
+            figure
+              img(src='@/assets/curso/temas/tema3/img38.png', alt='Imagen decorativa')
+          
 
 </template>
 
