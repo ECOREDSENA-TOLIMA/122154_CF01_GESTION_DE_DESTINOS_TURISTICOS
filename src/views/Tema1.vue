@@ -45,7 +45,7 @@
         .row.justify-content-center.p-4
           .col-lg-6.order-lg-1.order-2
             h4 El turismo de ocio
-            p Es quizás la forma más tradicional y abarca actividades recreativas y de descanso, donde el principal objetivo es el disfrute personal. Este tipo de turismo se enfoca en la relajación y el entretenimiento, siendo común en playas, resorts y destinos de naturaleza.
+            p Es quizás la forma más tradicional y abarca actividades recreativas y de descanso, donde el principal objetivo es el disfrute personal. Este tipo de turismo se enfoca en la relajación y el entretenimiento, siendo común en playas, <i>resorts</i> y destinos de naturaleza.
         
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
@@ -160,7 +160,7 @@
         figure
           img(src='@/assets/curso/temas/tema1/img10.png', alt='Imagen decorativa')
 
-    p.mb-5(data-aos="fade-left") La gestión efectiva de un destino turístico implica una serie de acciones estratégicas. En primer lugar, es esencial promover los atractivos que caracterizan al destino, ya sean estos históricos, naturales o culturales. Esto puede incluir la elaboración de campañas de marketing que destaquen los eventos locales, las tradiciones y los recursos naturales disponibles. Sin embargo, la promoción de los atractivos es solo una parte del proceso.
+    p.mb-5(data-aos="fade-left") La gestión efectiva de un destino turístico implica una serie de acciones estratégicas. En primer lugar, es esencial promover los atractivos que caracterizan al destino, ya sean estos históricos, naturales o culturales. Esto puede incluir la elaboración de campañas de <i>marketing</i> que destaquen los eventos locales, las tradiciones y los recursos naturales disponibles. Sin embargo, la promoción de los atractivos es solo una parte del proceso.
 
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col-lg-10.col-12          
@@ -193,25 +193,25 @@
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema1/img12.svg' alt='AvatarTop')
-        h2.text-center Turistas
+        h4.text-center Turistas
         p.text-center Personas que viajan con el propósito de ocio, negocio o cualquier otra motivación.
       .col-md-6.col-lg.tarjeta--tabla1.p-4
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema1/img13.svg' alt='AvatarTop')
-        h2.text-center Empresas
+        h4.text-center Empresas
         p.text-center Entidades que ofrecen servicios y productos turísticos, como hoteles, agencias de viajes, y operadores de turismo.
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema1/img14.svg' alt='AvatarTop')
-        h2.text-center Gobiernos
+        h4.text-center Gobiernos
         p.text-center Autoridades que establecen políticas y regulaciones que rigen el sector turístico.
       .col-md-6.col-lg.tarjeta--tabla1.p-4
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema1/img15.svg' alt='AvatarTop')
-        h2.text-center Comunidades locales
+        h4.text-center Comunidades locales
         p.text-center Habitantes de los destinos turísticos que se ven afectados por la actividad turística.
 
     p.mb-5(data-aos="fade-left") Según Bhatia (2005), este sistema es dinámico y se ve influenciado por diversos factores externos como: 
@@ -245,7 +245,7 @@
       .tarjeta--container.row.mb-5
         .col-xl.col-md-6.tarjeta.color-primario.p-5
           .row.justify-content-center.mb-3
-            .col-xl-4.col-6
+            .col-lg-6.col-md-4.col-5
               figure
                 img(src='@/assets/curso/temas/tema1/img19.png', alt='Imagen decorativa')
             
@@ -254,16 +254,16 @@
 
         .col-xl.col-md-6.tarjeta.color-secundario.p-5
           .row.justify-content-center.mb-3
-            .col-xl-4.col-6
+            .col-lg-6.col-md-4.col-5
               figure
                 img(src='@/assets/curso/temas/tema1/img20.png', alt='Imagen decorativa')
             
           h4.text-center Desarrollo de estrategias efectivas
-          p.text-center Diseñar campañas de marketing y productos turísticos adaptados a las necesidades de los turistas.
+          p.text-center Diseñar campañas de <i>marketing</i> y productos turísticos adaptados a las necesidades de los turistas.
 
         .col-xl.col-md-6.tarjeta.color-acento-contenido.p-5
           .row.justify-content-center.mb-3
-            .col-xl-4.col-6
+            .col-lg-6.col-md-4.col-5
               figure
                 img(src='@/assets/curso/temas/tema1/img21.png', alt='Imagen decorativa')
             

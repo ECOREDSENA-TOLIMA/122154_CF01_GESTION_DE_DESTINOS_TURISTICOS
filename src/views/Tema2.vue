@@ -58,21 +58,21 @@
           img(src='@/assets/curso/temas/tema2/img02.svg' alt='AvatarTop')
           .tarjeta.color-primario(style= "width: 100%")
             .p-4
-              h2.text-center Recursos naturales
+              h4.text-center Recursos naturales
               p.text-center Montañas, playas, parques nacionales. 
       .col-lg-4.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema2/img03.svg' alt='AvatarTop')
           .tarjeta.color-primario(style= "width: 100%")
             .p-4
-              h2.text-center Patrimonio cultural
+              h4.text-center Patrimonio cultural
               p.text-center Monumentos, festivales, tradiciones.
       .col-lg-4.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema2/img04.svg' alt='AvatarTop')
           .tarjeta.color-primario(style= "width: 100%")
             .p-4
-              h2.text-center Infraestructura
+              h4.text-center Infraestructura
               p.text-center Hoteles, restaurantes, transporte.
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
@@ -171,7 +171,7 @@
             figure
               img(src='@/assets/curso/temas/tema2/img12.svg', alt='Imagen decorativa')
           
-        h4.text-center Resorts
+        h4.text-center <i>Resorts</i>
         p Espacios diseñados exclusivamente para el turismo.
 
     p.mb-5(data-aos="fade-left") Estos espacios suelen requerir una gestión específica para mantener su atractivo y garantizar que el turismo no impacte negativamente en el entorno ni en las comunidades locales. Según Smith (2010), la creación de espacios turísticos debe ir acompañada de políticas de conservación y sostenibilidad para asegurar su viabilidad a largo plazo.
@@ -270,7 +270,7 @@
     .row.justify-content-center(data-aos="flip-up")
       .col-lg-10.col-12
         .cajon.cajon.color-secundario.p-4.mb-4
-          p.mb-0 <b>Ejemplo</b>: el Manual de Inventario de Recursos Turísticos de la OMT ofrece directrices claras para la creación de inventarios en cualquier tipo de destino, facilitando su integración en la planificación del turismo.
+          p.mb-0 <b>Ejemplo</b>: el Manual de Inventario de Recursos Turísticos de la OMT, ofrece directrices claras para la creación de inventarios en cualquier tipo de destino, facilitando su integración en la planificación del turismo.
 
 </template>
 

@@ -67,21 +67,21 @@
           img(src='@/assets/curso/temas/tema3/img06.svg' alt='AvatarTop')
           .tarjeta.color-primario(style= "width: 100%")
             .p-4
-              h2.text-center Patrimonio inmaterial
+              h4.text-center Patrimonio inmaterial
               p.text-center Costumbres, tradiciones, ritos y festivales que han sido transmitidos de generación en generación. Ejemplos incluyen danzas tradicionales, celebraciones religiosas y otros eventos comunitarios.
       .col-lg-4.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/img07.svg' alt='AvatarTop')
           .tarjeta.color-primario(style= "width: 100%")
             .p-4
-              h2.text-center Lenguas
+              h4.text-center Lenguas
               p.text-center Idiomas y dialectos locales que forman parte del patrimonio cultural de un pueblo y que son esenciales para la transmisión del conocimiento y la identidad.
       .col-lg-4.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/img08.svg' alt='AvatarTop')
           .tarjeta.color-primario(style= "width: 100%")
             .p-4
-              h2.text-center Saberes y prácticas
+              h4.text-center Saberes y prácticas
               p.text-center Conocimientos ancestrales sobre la naturaleza, medicina tradicional, gastronomía y otras áreas que se mantienen vigentes en comunidades específicas.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
@@ -160,7 +160,7 @@
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.4 Tipología de turistas
 
-    p.mb-5(data-aos="fade-left") La tipología de turistas se refiere a la clasificación de los viajeros en función de sus motivaciones, intereses, comportamientos y preferencias. Esta categorización es fundamental para que los gestores turísticos adapten la oferta de productos y servicios a las necesidades específicas de los diferentes tipos de turistas. Además, la tipología de turistas permite identificar tendencias y orientar estrategias de marketing, facilitando la segmentación del mercado y la creación de experiencias personalizadas. Algunas de las categorías más comunes incluyen:
+    p.mb-5(data-aos="fade-left") La tipología de turistas se refiere a la clasificación de los viajeros en función de sus motivaciones, intereses, comportamientos y preferencias. Esta categorización es fundamental para que los gestores turísticos adapten la oferta de productos y servicios a las necesidades específicas de los diferentes tipos de turistas. Además, la tipología de turistas permite identificar tendencias y orientar estrategias de <i>marketing</i>, facilitando la segmentación del mercado y la creación de experiencias personalizadas. Algunas de las categorías más comunes incluyen:
 
 
     TabsC.color-acento-botones.mb-5(data-aos="flip-up")
@@ -170,7 +170,7 @@
             figure
               img(src='@/assets/curso/temas/tema3/img13.png', alt='Imagen decorativa')
           .col-lg-5.order-lg-1.order-2
-            p Viajan para relajarse, disfrutar de actividades recreativas y escapar de la rutina diaria. Suelen preferir destinos que ofrezcan comodidad, entretenimiento y actividades de bajo esfuerzo, como playas, resorts, o cruceros.
+            p Viajan para relajarse, disfrutar de actividades recreativas y escapar de la rutina diaria. Suelen preferir destinos que ofrezcan comodidad, entretenimiento y actividades de bajo esfuerzo, como playas, <i>resorts</i>, o cruceros.
 
       .py-3.py-md-4(titulo="Turistas culturales")
         .row.justify-content-center.p-4
@@ -236,7 +236,7 @@
             figure
               img(src='@/assets/curso/temas/tema3/img20.png', alt='Imagen decorativa')
 
-    p.mb-5(data-aos="fade-left") Identificar la tipología de los turistas es crucial para diseñar productos turísticos específicos y desarrollar estrategias de marketing efectivas. Cooper et al. (2008) señalan que las preferencias y comportamientos de los turistas varían ampliamente según el tipo de viajero, lo que obliga a los destinos a diversificar su oferta para satisfacer estas demandas.
+    p.mb-5(data-aos="fade-left") Identificar la tipología de los turistas es crucial para diseñar productos turísticos específicos y desarrollar estrategias de <i>marketing</i> efectivas. Cooper et al. (2008) señalan que las preferencias y comportamientos de los turistas varían ampliamente según el tipo de viajero, lo que obliga a los destinos a diversificar su oferta para satisfacer estas demandas.
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
