@@ -26,28 +26,28 @@
     p.mb-5(data-aos="fade-left") Son aquellos elementos materiales que se pueden ver y tocar. Estos incluyen:
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
-      .col-xl-6.col-lg-8.mb-4.mb-xl-5
+      .col-xl-3.col-lg-8.mb-4.mb-xl-5
         .crd.crd--grayGrad(data-aos="flip-left")
           .bottomCircle.mb-5
             figure
               img(src="@/assets/curso/temas/tema3/img02.svg", alt="alt").img90.m-auto
           h4.text-center Monumentos
           p.text-center.mb-0 Edificaciones históricas, castillos, iglesias, templos, puentes y sitios arqueológicos que tienen relevancia histórica, arquitectónica o artística.
-      .col-xl-6.col-lg-8.mb-4.mb-xl-5
+      .col-xl-3.col-lg-8.mb-4.mb-xl-5
         .crd.crd--grayGrad(data-aos="flip-left")
           .bottomCircle.mb-5
             figure
               img(src="@/assets/curso/temas/tema3/img03.svg", alt="alt").img90.m-auto
           h4.text-center Obras de arte
           p.text-center.mb-0 Pinturas, esculturas, murales y otras expresiones artísticas que son reconocidas como patrimonio cultural.
-      .col-xl-6.col-lg-8.mb-4.mb-xl-5
+      .col-xl-3.col-lg-8.mb-4.mb-xl-5
         .crd.crd--grayGrad(data-aos="flip-left")
           .bottomCircle.mb-5
             figure
               img(src="@/assets/curso/temas/tema3/img04.svg", alt="alt").img90.m-auto
           h4.text-center Artesanías
           p.text-center.mb-0 Objetos hechos a mano que reflejan las técnicas tradicionales de una comunidad, tales como cerámicas, textiles y joyería.
-      .col-xl-6.col-lg-8.mb-4.mb-xl-5
+      .col-xl-3.col-lg-8.mb-4.mb-xl-5
         .crd.crd--grayGrad(data-aos="flip-left")
           .bottomCircle.mb-5
             figure
@@ -65,33 +65,33 @@
       .col-lg-4.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/img06.svg' alt='AvatarTop')
-          .tarjeta.color-primario(style= "width: 100%")
+          .tarjeta.color5(style= "width: 100%")
             .p-4
               h4.text-center Patrimonio inmaterial
               p.text-center Costumbres, tradiciones, ritos y festivales que han sido transmitidos de generación en generación. Ejemplos incluyen danzas tradicionales, celebraciones religiosas y otros eventos comunitarios.
       .col-lg-4.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/img07.svg' alt='AvatarTop')
-          .tarjeta.color-primario(style= "width: 100%")
+          .tarjeta.color5(style= "width: 100%")
             .p-4
               h4.text-center Lenguas
               p.text-center Idiomas y dialectos locales que forman parte del patrimonio cultural de un pueblo y que son esenciales para la transmisión del conocimiento y la identidad.
       .col-lg-4.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/img08.svg' alt='AvatarTop')
-          .tarjeta.color-primario(style= "width: 100%")
+          .tarjeta.color5(style= "width: 100%")
             .p-4
               h4.text-center Saberes y prácticas
               p.text-center Conocimientos ancestrales sobre la naturaleza, medicina tradicional, gastronomía y otras áreas que se mantienen vigentes en comunidades específicas.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
-        .row
-          .col-lg-6.col-12
+        .row.justify-content-center.align-items-center
+          .col-xl-6.col-12.order-lg-2.order-2
             p El turismo cultural, según Smith (2010), juega un papel clave en la conservación de estos bienes tangibles e intangibles, ya que su promoción no solo fomenta el interés de los visitantes, sino que también incentiva la preservación y revalorización de las tradiciones locales. Al atraer la atención hacia estos elementos, el turismo cultural ayuda a proteger y revitalizar las prácticas culturales que podrían estar en riesgo de desaparecer.
             .cajon.cajon.color-secundario.p-4.mb-4
               p.mb-0 <b>Ejemplo</b>: el Coliseo en Roma es un bien cultural tangible que atrae millones de turistas al año, mientras que el Festival de la Guelaguetza en Oaxaca, México, es un bien cultural intangible que preserva las tradiciones indígenas.
-          .col-lg-6.d-lg-flex.d-none
+          .col-xl-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema3/img09.png', alt='Imagen decorativa')
 
@@ -102,7 +102,7 @@
     p.mb-5(data-aos="fade-left") Los bienes naturales incluyen elementos del entorno físico que tienen un valor estético, ecológico o recreativo. Estos bienes son fundamentales para el desarrollo del turismo sostenible y pueden incluir:
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
-      .col-lg-3.d-lg-flex.d-none
+      .col-xl-3.col-6.mb-xl-0.mb-4
         figure
           img(src='@/assets/curso/temas/tema3/img10.svg', alt='Imagen decorativa')
       .col-lg-9.col-12
@@ -119,12 +119,12 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
-        .row
-          .col-lg-6.col-12
+        .row.justify-content-center.align-items-center
+          .col-lg-6.col-12.order-lg-2.order-2
             p El turismo de naturaleza, conocido como ecoturismo, promueve el respeto por estos bienes y la conciencia sobre la conservación. Mathieson y Wall (1982) destacan la importancia de gestionar adecuadamente los bienes naturales para evitar el deterioro de los paisajes debido a la afluencia masiva de turistas.
             .cajon.cajon.color-secundario.p-4.mb-4
               p.mb-0 <b>Ejemplo</b>: el Parque Nacional del Teide en España es un bien natural que atrae a visitantes por sus paisajes volcánicos y su flora única.
-          .col-lg-6.d-lg-flex.d-none
+          .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema3/img11.png', alt='Imagen decorativa')
 
@@ -136,10 +136,10 @@
     p.mb-5(data-aos="fade-left") La identidad cultural se refiere a los valores, creencias, costumbres, prácticas y símbolos que definen a una comunidad o grupo social y que proporcionan un sentido de pertenencia a sus miembros. Estos elementos son fundamentales para la cohesión social y se reflejan en las formas de vida, tradiciones y expresiones artísticas de cada cultura. En el contexto del turismo, la cultura local es uno de los principales atractivos, ya que los visitantes buscan experiencias auténticas que les permitan sumergirse en costumbres y estilos de vida diferentes.
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
-      .col-lg-4.d-lg-flex.d-none
+      .col-lg-4.col-10.order-lg-1.order-1.mb-lg-0.mb-4
         figure
           img(src='@/assets/curso/temas/tema3/img12.png', alt='Imagen decorativa')
-      .col-lg-8.col-12
+      .col-lg-8.col-12.order-lg-2.order-2
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Turismo y preservación de la identidad cultural")
             .col-lg-12.mb-4.mb-lg-0
@@ -296,10 +296,10 @@
       .col-lg-10.col-12
         .cajon.cajon1.p-4
           .row.justify-content-center.align-items-center
-            .col-xl-4.col-lg-4.col-6.d-lg-flex.d-none
+            .col-lg-3.col-6.mx-auto.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema3/img27.svg', alt='Imagen decorativa')
-            .col-lg-8.col-12
+            .col-lg-9.col-12
               ul.lista-ul
                 li.li 
                   i.fas.fa-angle-right
@@ -323,10 +323,10 @@
       .col-lg-10.col-12
         .cajon.cajon1.p-4
           .row.justify-content-center.align-items-center
-            .col-xl-4.col-lg-4.col-6.d-lg-flex.d-none
+            .col-lg-3.col-6.mx-auto.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema3/img28.svg', alt='Imagen decorativa')
-            .col-lg-8.col-12
+            .col-lg-9.col-12
               ul.lista-ul
                 li.li 
                   i.fas.fa-angle-right
@@ -340,25 +340,26 @@
 
     p.mb-5(data-aos="fade-left") Esta tendencia ha llevado a los destinos turísticos a diversificar su oferta y a colaborar con proveedores locales para crear experiencias diferenciadas. Además, las empresas turísticas están utilizando datos y análisis predictivos para personalizar la experiencia de cada cliente, desde las recomendaciones de actividades hasta los servicios adicionales.
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
-      .col-lg-10.col-12
-        .row.justify-content-center.align-items-center
-          .col-lg-6.col-12
-            .cajon.cajon1.color-primario.p-4.mb-4
-              p.mb-0 El uso de la tecnología ha transformado radicalmente la forma en que los turistas planifican, reservan y disfrutan de sus viajes. Las plataformas digitales, aplicaciones móviles y herramientas interactivas permiten a los viajeros tener un control total sobre su experiencia. Entre los avances más destacados están:
-            ul.lista-ul
-              li.li 
-                i.fas.fa-angle-right
-                | Aplicaciones de reserva en tiempo real, que permiten a los turistas reservar alojamiento, transporte y actividades desde su dispositivo móvil.
-              li.li 
-                i.fas.fa-angle-right
-                | Guías interactivas y tours virtuales que ayudan a los viajeros a explorar destinos antes de llegar.
-              li.li 
-                i.fas.fa-angle-right
-                | Realidad aumentada y realidad virtual, que están siendo utilizadas por algunos destinos para ofrecer experiencias más inmersivas a los visitantes.
-          .col-lg-6.d-lg-flex.d-none
-            figure
-              img(src='@/assets/curso/temas/tema3/img29.png', alt='Imagen decorativa')
+    .container.BG05.p-4.mb-5
+      .row.justify-content-center.align-items-center(data-aos="flip-up")
+        .col-lg-10.col-12
+          .row.justify-content-center.align-items-center
+            .col-lg-6.col-12.order-lg-2.order-2
+              .cajon.cajon1.color-primario.p-4.mb-4
+                p.mb-0 El uso de la tecnología ha transformado radicalmente la forma en que los turistas planifican, reservan y disfrutan de sus viajes. Las plataformas digitales, aplicaciones móviles y herramientas interactivas permiten a los viajeros tener un control total sobre su experiencia. Entre los avances más destacados están:
+              ul.lista-ul
+                li.li 
+                  i.fas.fa-angle-right
+                  | Aplicaciones de reserva en tiempo real, que permiten a los turistas reservar alojamiento, transporte y actividades desde su dispositivo móvil.
+                li.li 
+                  i.fas.fa-angle-right
+                  | Guías interactivas y tours virtuales que ayudan a los viajeros a explorar destinos antes de llegar.
+                li.li 
+                  i.fas.fa-angle-right
+                  | Realidad aumentada y realidad virtual, que están siendo utilizadas por algunos destinos para ofrecer experiencias más inmersivas a los visitantes.
+            .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
+              figure
+                img(src='@/assets/curso/temas/tema3/img29.png', alt='Imagen decorativa')
 
     p.mb-5(data-aos="fade-left") Esta tendencia también ha impulsado la economía colaborativa, con plataformas como Airbnb y Uber, que permiten a los turistas acceder a servicios de alojamiento y transporte de manera más flexible y personalizada. El turismo digital ha generado una mayor competencia, obligando a las empresas tradicionales a adaptarse e innovar en sus servicios.
     p.mb-5(data-aos="fade-left") Otra tendencia emergente es el consumo responsable, en el que los turistas optan por apoyar empresas y destinos que se alinean con valores éticos y sociales. Los viajeros buscan experiencias que promuevan el bienestar de las comunidades locales y la justicia social. Esto puede manifestarse a través de:
@@ -367,10 +368,10 @@
       .col-lg-10.col-12
         .cajon.cajon1.p-4
           .row.justify-content-center.align-items-center
-            .col-xl-4.col-lg-4.col-6.d-lg-flex.d-none
+            .col-lg-3.col-6.mx-auto.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema3/img30.svg', alt='Imagen decorativa')
-            .col-lg-8.col-12
+            .col-lg-9.col-12
               ul.lista-ul
                 li.li 
                   i.fas.fa-angle-right
@@ -387,11 +388,11 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
         .row.justify-content-center.align-items-center
-          .col-lg-6.col-12
+          .col-lg-6.col-12.order-lg-2.order-2
             p Además, factores como la inflación, las crisis económicas o la disponibilidad de recursos económicos en las regiones de origen de los turistas pueden influir en sus decisiones de viaje, afectando tanto los destinos como la naturaleza de las actividades que realizan.
             .cajon.cajon.color-secundario.p-4.mb-4
               p.mb-0 Un ejemplo, es el desarrollo de aplicaciones móviles que permiten a los turistas personalizar sus viajes, como la posibilidad de reservar actividades en destino o recibir recomendaciones basadas en sus intereses previos. Además, destinos como Islandia han capitalizado en el turismo sostenible al limitar el número de visitantes en ciertas áreas naturales para preservar el ecosistema local.
-          .col-lg-6.d-lg-flex.d-none
+          .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema3/img31.png', alt='Imagen decorativa')
 
@@ -465,10 +466,10 @@
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
         .row.justify-content-center.align-items-center
-          .col-lg-6.d-lg-flex.d-none
+          .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema3/img35.png', alt='Imagen decorativa')
-          .col-lg-6.col-12
+          .col-lg-6.col-12.order-lg-2.order-2
             p Los destinos que innovan en su oferta turística y buscan diferenciarse en el mercado a través de experiencias únicas y auténticas logran un mejor posicionamiento.
             .cajon.cajon.color-secundario.p-4.mb-4
               p.mb-0 <b>Ejemplo</b>: París no solo es conocida por sus monumentos icónicos como la Torre Eiffel, sino también por su gastronomía, moda y una robusta infraestructura turística que incluye una vasta red de hoteles, transporte eficiente y una amplia oferta cultural.
@@ -496,18 +497,18 @@
             p ¿Qué tan fácil es para los turistas  llegar al destino?
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
-      .col-md-8.col-12.movil
+      .col-md-8.col-10.movil
         figure
           img(src='@/assets/curso/temas/tema3/img37.svg', alt='Imagen decorativa')
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
         .row.justify-content-center.align-items-center
-          .col-lg-6.col-12
+          .col-lg-6.col-12.order-lg-2.order-2
             p Bhatia (2005) menciona que una valoración adecuada del territorio es esencial para la planificación y gestión eficiente del turismo, asegurando un equilibrio entre el desarrollo económico y la preservación de los recursos.
             .cajon.cajon.color-secundario.p-4.mb-4
               p.mb-0 <b>Ejemplo</b>: la valoración del Patrimonio de la Humanidad en Machu Picchu, ha llevado a la implementación de medidas de conservación y gestión de visitantes para proteger tanto el sitio como la experiencia del turista.
-          .col-lg-6.d-lg-flex.d-none
+          .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema3/img38.png', alt='Imagen decorativa')
           

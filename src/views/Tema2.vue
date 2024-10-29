@@ -25,7 +25,7 @@
 
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
-      .col-lg-8.col-12
+      .col-lg-8.col-12.order-lg-2.order-2
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
           .row.mb-5(titulo="Diversificación de la oferta")
             .col-lg-12.mb-4.mb-md-0
@@ -37,7 +37,7 @@
             .col-lg-12.mb-4.mb-md-0
               p Conectan áreas menos conocidas con destinos populares, promoviendo el crecimiento económico en regiones rurales.
               
-      .col-lg-4.d-lg-flex.d-none
+      .col-lg-4.col-8.order-lg-1.order-1.mb-lg-0.mb-4
         figure
           img(src='@/assets/curso/temas/tema2/img01.png', alt='Imagen decorativa')
 
@@ -56,33 +56,33 @@
       .col-lg-4.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema2/img02.svg' alt='AvatarTop')
-          .tarjeta.color-primario(style= "width: 100%")
+          .tarjeta.color5(style= "width: 100%")
             .p-4
               h4.text-center Recursos naturales
               p.text-center Montañas, playas, parques nacionales. 
       .col-lg-4.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema2/img03.svg' alt='AvatarTop')
-          .tarjeta.color-primario(style= "width: 100%")
+          .tarjeta.color5(style= "width: 100%")
             .p-4
               h4.text-center Patrimonio cultural
               p.text-center Monumentos, festivales, tradiciones.
       .col-lg-4.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema2/img04.svg' alt='AvatarTop')
-          .tarjeta.color-primario(style= "width: 100%")
+          .tarjeta.color5(style= "width: 100%")
             .p-4
               h4.text-center Infraestructura
               p.text-center Hoteles, restaurantes, transporte.
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
-        .row
-          .col-lg-6.col-12
+        .row.justify-content-center.align-items-center
+          .col-lg-6.col-12.order-lg-2.order-2
             p Un inventario bien realizado es esencial para la planificación estratégica y la promoción de los destinos turísticos. Según Cooper et al. (2008), los inventarios turísticos ayudan a las autoridades a priorizar inversiones y mejorar la oferta turística, garantizando un desarrollo equilibrado y sostenible.
             .cajon.cajon.color-secundario.p-4.mb-4
               p.mb-0 <b>Ejemplo</b>: el Inventario Nacional de Bienes Culturales de Chile es una herramienta clave para la gestión de sitios patrimoniales y su incorporación en la oferta turística.
-          .col-lg-6.d-lg-flex.d-none
+          .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema2/img05.png', alt='Imagen decorativa')
     
@@ -132,11 +132,11 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
         .row.justify-content-center.align-items-center
-          .col-lg-6.col-12
+          .col-lg-6.col-12.order-lg-2.order-2
             p Un conocimiento profundo de la geografía general permite a los gestores turísticos planificar mejor las actividades y anticipar posibles retos, como el impacto del clima en la afluencia de turistas.
             .cajon.cajon.color-secundario.p-4.mb-4
               p.mb-0 <b>Ejemplo</b>: las islas del Caribe dependen del clima cálido y tropical para atraer turistas, pero también deben prepararse para temporadas de huracanes que pueden afectar su infraestructura turística.
-          .col-lg-6.d-lg-flex.d-none
+          .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema2/img09.png', alt='Imagen decorativa')
 
@@ -203,11 +203,11 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
         .row.justify-content-center.align-items-center
-          .col-lg-6.col-12
+          .col-lg-6.col-12.order-lg-2.order-2
             p Las tecnologías como los sistemas GPS y los mapas digitales han transformado la forma en que los destinos y rutas son localizados y promocionados, proporcionando mayor comodidad y eficiencia tanto para los turistas como para los gestores.
             .cajon.cajon.color-secundario.p-4.mb-4
               p.mb-0 <b>Ejemplo</b>: Google Maps utiliza georreferencias para ofrecer rutas precisas, lo que facilita la planificación y la navegación de los turistas en nuevos destinos.
-          .col-lg-6.d-lg-flex.d-none
+          .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema2/img15.png', alt='Imagen decorativa')
 
@@ -220,10 +220,10 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-8.col-12
         .row.justify-content-center.align-items-center
-          .col-lg-4.d-lg-flex.d-none
+          .col-lg-4.col-8.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema2/img16.png', alt='Imagen decorativa')
-          .col-lg-8.md-10.col-12
+          .col-lg-8.md-10.col-12.order-lg-2.order-2
             .cajon.cajon1.p-4.mb-4
               ul.lista-ul
                 li 
@@ -252,7 +252,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.col-12
         .row.justify-content-center.align-items-center
-          .col-lg-6.col-12.mb-5.mb-md-0
+          .col-lg-6.col-12.mb-5.mb-md-0.order-lg-2.order-2
             LineaTiempoD.color-acento-botones.especial
               p(numero="1" titulo="Identificación") Detectar todos los recursos naturales, culturales y de infraestructura disponible.
               
@@ -261,7 +261,7 @@
               p(numero="3" titulo="Evaluación") Analizar la calidad y sostenibilidad de los recursos.
               
               p(numero="4" titulo="Registro") Documentar la información en un formato accesible para planificadores turísticos.
-          .col-lg-6.d-lg-flex.d-none
+          .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema2/img17.png', alt='Imagen decorativa')
 
