@@ -37,7 +37,7 @@
             .col-lg-12.mb-4.mb-md-0
               p Conectan áreas menos conocidas con destinos populares, promoviendo el crecimiento económico en regiones rurales.
               
-      .col-lg-4.col-8.order-lg-1.order-1.mb-lg-0.mb-4
+      .col-lg-4.col-7.order-lg-1.order-1.mb-lg-0.mb-4
         figure
           img(src='@/assets/curso/temas/tema2/img01.png', alt='Imagen decorativa')
 
@@ -82,7 +82,7 @@
             p Un inventario bien realizado es esencial para la planificación estratégica y la promoción de los destinos turísticos. Según Cooper et al. (2008), los inventarios turísticos ayudan a las autoridades a priorizar inversiones y mejorar la oferta turística, garantizando un desarrollo equilibrado y sostenible.
             .cajon.cajon.color-secundario.p-4.mb-4
               p.mb-0 <b>Ejemplo</b>: el Inventario Nacional de Bienes Culturales de Chile es una herramienta clave para la gestión de sitios patrimoniales y su incorporación en la oferta turística.
-          .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
+          .col-lg-6.col-8.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema2/img05.png', alt='Imagen decorativa')
     
@@ -136,7 +136,7 @@
             p Un conocimiento profundo de la geografía general permite a los gestores turísticos planificar mejor las actividades y anticipar posibles retos, como el impacto del clima en la afluencia de turistas.
             .cajon.cajon.color-secundario.p-4.mb-4
               p.mb-0 <b>Ejemplo</b>: las islas del Caribe dependen del clima cálido y tropical para atraer turistas, pero también deben prepararse para temporadas de huracanes que pueden afectar su infraestructura turística.
-          .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
+          .col-lg-6.col-8.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema2/img09.png', alt='Imagen decorativa')
 
@@ -207,7 +207,7 @@
             p Las tecnologías como los sistemas GPS y los mapas digitales han transformado la forma en que los destinos y rutas son localizados y promocionados, proporcionando mayor comodidad y eficiencia tanto para los turistas como para los gestores.
             .cajon.cajon.color-secundario.p-4.mb-4
               p.mb-0 <b>Ejemplo</b>: Google Maps utiliza georreferencias para ofrecer rutas precisas, lo que facilita la planificación y la navegación de los turistas en nuevos destinos.
-          .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
+          .col-lg-6.col-8.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema2/img15.png', alt='Imagen decorativa')
 
@@ -220,7 +220,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-8.col-12
         .row.justify-content-center.align-items-center
-          .col-lg-4.col-8.order-lg-1.order-1.mb-lg-0.mb-4
+          .col-lg-4.col-6.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema2/img16.png', alt='Imagen decorativa')
           .col-lg-8.md-10.col-12.order-lg-2.order-2
@@ -261,7 +261,7 @@
               p(numero="3" titulo="Evaluación") Analizar la calidad y sostenibilidad de los recursos.
               
               p(numero="4" titulo="Registro") Documentar la información en un formato accesible para planificadores turísticos.
-          .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
+          .col-lg-6.col-8.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema2/img17.png', alt='Imagen decorativa')
 

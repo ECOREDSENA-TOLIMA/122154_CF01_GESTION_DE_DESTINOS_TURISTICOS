@@ -110,11 +110,11 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
-        .row.justify-content-center
+        .row.justify-content-center.align-items-center
           .col-lg-6.col-12.order-lg-2.order-2
             p La identificación y promoción de estos atractivos es crucial para la estrategia de <i>marketing</i> de cualquier destino turístico. Una gestión adecuada de los atractivos puede generar un aumento significativo en la demanda turística. Esto implica no solo reconocer qué elementos son atractivos, sino también trabajar en su conservación, accesibilidad y presentación. La creación de paquetes turísticos, eventos y campañas publicitarias que resalten estos atractivos puede contribuir al crecimiento sostenible del turismo en la región.
             p La importancia de los atractivos turísticos se extiende más allá de la mera atracción de visitantes. También desempeñan un papel vital en el desarrollo económico local, ya que fomentan la creación de empleo, el crecimiento de la infraestructura y la mejora de la calidad de vida en las comunidades que dependen del turismo. Además, al promover el respeto y la valoración del patrimonio cultural y natural, se puede contribuir a la sostenibilidad y protección de estos recursos para las futuras generaciones.
-          .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
+          .col-lg-6.col-8.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema1/img09.png', alt='Imagen decorativa')
 
@@ -162,7 +162,7 @@
             i.fas.fa-quote-left
             p.text-regular Según Urry (1990), la experiencia del destino va más allá de los lugares físicos, ya que involucra la cultura local, las interacciones sociales y las experiencias sensoriales que los turistas viven durante su estancia. Esto significa que los destinos deben esforzarse por crear un entorno que no solo resalte sus atractivos naturales y culturales, sino que también fomente la conexión entre los visitantes y la comunidad local.
             i.fas.fa-quote-right
-      .col-lg-5.col-9.order-lg-1.order-1.mb-lg-0.mb-4
+      .col-lg-5.col-8.order-lg-1.order-1.mb-lg-0.mb-4
         figure
           img(src='@/assets/curso/temas/tema1/img10.png', alt='Imagen decorativa')
 
@@ -247,7 +247,7 @@
 
     p.mb-5(data-aos="fade-left") Una comprensión adecuada de cómo funciona el sistema turístico permite a los gestores identificar oportunidades y desafíos, facilitando la implementación de políticas y estrategias que beneficien a todos los actores involucrados. Algunas de las ventajas de esta comprensión son:
 
-    .row.justify-content-center.mb-4(data-aos="flip-up")
+    .row.justify-content-center.ali.mb-4(data-aos="flip-up")
       .tarjeta--container.row.mb-5
         .col-xl.col-md-6.tarjeta.color-primario.p-5
           .row.justify-content-center.mb-3

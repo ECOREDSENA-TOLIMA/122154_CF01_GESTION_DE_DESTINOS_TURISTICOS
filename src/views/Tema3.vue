@@ -91,7 +91,7 @@
             p El turismo cultural, según Smith (2010), juega un papel clave en la conservación de estos bienes tangibles e intangibles, ya que su promoción no solo fomenta el interés de los visitantes, sino que también incentiva la preservación y revalorización de las tradiciones locales. Al atraer la atención hacia estos elementos, el turismo cultural ayuda a proteger y revitalizar las prácticas culturales que podrían estar en riesgo de desaparecer.
             .cajon.cajon.color-secundario.p-4.mb-4
               p.mb-0 <b>Ejemplo</b>: el Coliseo en Roma es un bien cultural tangible que atrae millones de turistas al año, mientras que el Festival de la Guelaguetza en Oaxaca, México, es un bien cultural intangible que preserva las tradiciones indígenas.
-          .col-xl-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
+          .col-xl-6.col-8.order-lg-1.order-1.mb-lg-3.mb-4
             figure
               img(src='@/assets/curso/temas/tema3/img09.png', alt='Imagen decorativa')
 
@@ -124,7 +124,7 @@
             p El turismo de naturaleza, conocido como ecoturismo, promueve el respeto por estos bienes y la conciencia sobre la conservación. Mathieson y Wall (1982) destacan la importancia de gestionar adecuadamente los bienes naturales para evitar el deterioro de los paisajes debido a la afluencia masiva de turistas.
             .cajon.cajon.color-secundario.p-4.mb-4
               p.mb-0 <b>Ejemplo</b>: el Parque Nacional del Teide en España es un bien natural que atrae a visitantes por sus paisajes volcánicos y su flora única.
-          .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
+          .col-lg-6.col-8.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema3/img11.png', alt='Imagen decorativa')
 
@@ -135,8 +135,8 @@
 
     p.mb-5(data-aos="fade-left") La identidad cultural se refiere a los valores, creencias, costumbres, prácticas y símbolos que definen a una comunidad o grupo social y que proporcionan un sentido de pertenencia a sus miembros. Estos elementos son fundamentales para la cohesión social y se reflejan en las formas de vida, tradiciones y expresiones artísticas de cada cultura. En el contexto del turismo, la cultura local es uno de los principales atractivos, ya que los visitantes buscan experiencias auténticas que les permitan sumergirse en costumbres y estilos de vida diferentes.
 
-    .row.justify-content-center.mb-5(data-aos="flip-up")
-      .col-lg-4.col-10.order-lg-1.order-1.mb-lg-0.mb-4
+    .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
+      .col-lg-4.col-6.order-lg-1.order-1.mb-lg-0.mb-4
         figure
           img(src='@/assets/curso/temas/tema3/img12.png', alt='Imagen decorativa')
       .col-lg-8.col-12.order-lg-2.order-2
@@ -296,7 +296,7 @@
       .col-lg-10.col-12
         .cajon.cajon1.p-4
           .row.justify-content-center.align-items-center
-            .col-lg-3.col-6.mx-auto.mb-lg-0.mb-4
+            .col-lg-3.col-4.mx-auto.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema3/img27.svg', alt='Imagen decorativa')
             .col-lg-9.col-12
@@ -323,7 +323,7 @@
       .col-lg-10.col-12
         .cajon.cajon1.p-4
           .row.justify-content-center.align-items-center
-            .col-lg-3.col-6.mx-auto.mb-lg-0.mb-4
+            .col-lg-3.col-4.mx-auto.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema3/img28.svg', alt='Imagen decorativa')
             .col-lg-9.col-12
@@ -357,7 +357,7 @@
                 li.li 
                   i.fas.fa-angle-right
                   | Realidad aumentada y realidad virtual, que están siendo utilizadas por algunos destinos para ofrecer experiencias más inmersivas a los visitantes.
-            .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
+            .col-lg-6.col-7.order-lg-1.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema3/img29.png', alt='Imagen decorativa')
 
@@ -368,7 +368,7 @@
       .col-lg-10.col-12
         .cajon.cajon1.p-4
           .row.justify-content-center.align-items-center
-            .col-lg-3.col-6.mx-auto.mb-lg-0.mb-4
+            .col-lg-3.col-4.mx-auto.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema3/img30.svg', alt='Imagen decorativa')
             .col-lg-9.col-12
@@ -392,7 +392,7 @@
             p Además, factores como la inflación, las crisis económicas o la disponibilidad de recursos económicos en las regiones de origen de los turistas pueden influir en sus decisiones de viaje, afectando tanto los destinos como la naturaleza de las actividades que realizan.
             .cajon.cajon.color-secundario.p-4.mb-4
               p.mb-0 Un ejemplo, es el desarrollo de aplicaciones móviles que permiten a los turistas personalizar sus viajes, como la posibilidad de reservar actividades en destino o recibir recomendaciones basadas en sus intereses previos. Además, destinos como Islandia han capitalizado en el turismo sostenible al limitar el número de visitantes en ciertas áreas naturales para preservar el ecosistema local.
-          .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
+          .col-lg-6.col-8.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema3/img31.png', alt='Imagen decorativa')
 
@@ -405,7 +405,7 @@
     .tarjeta.tarjeta--BG01.p-4.mb-5
       .tarjeta.tarjeta--blanca.p-4
         PasosB.color-acento-botones
-          .row.justify-content-center.p-4(titulo=" ")
+          .row.justify-content-center.align-items-center.p-4(titulo=" ")
             .col-lg-7.order-lg-1.order-2
               h4 Los atractivos turísticos
               p Son el núcleo de la oferta de un destino, y pueden ser de naturaleza cultural, histórica, o natural. Estos incluyen:
@@ -422,7 +422,7 @@
               figure
                 img(src='@/assets/curso/temas/tema3/img33.png', alt='Imagen decorativa')
 
-          .row.justify-content-center.p-4(titulo=" ")
+          .row.justify-content-center.align-items-center.p-4(titulo=" ")
             .col-lg-7.order-lg-1.order-2
               h4 La infraestructura turística
               p Incluye todas las facilidades que permiten a los turistas disfrutar del destino de manera cómoda y segura. Entre los elementos clave se encuentran:
@@ -441,7 +441,7 @@
               figure
                 img(src='@/assets/curso/temas/tema3/img32.png', alt='Imagen decorativa')
 
-          .row.justify-content-center.p-4(titulo=" ")
+          .row.justify-content-center.align-items-center.p-4(titulo=" ")
             .col-lg-7.order-lg-1.order-2
               h4 Los servicios turísticos
               p Complementan la experiencia del visitante y pueden incluir:
@@ -466,7 +466,7 @@
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
         .row.justify-content-center.align-items-center
-          .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
+          .col-lg-6.col-8.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema3/img35.png', alt='Imagen decorativa')
           .col-lg-6.col-12.order-lg-2.order-2
@@ -508,7 +508,7 @@
             p Bhatia (2005) menciona que una valoración adecuada del territorio es esencial para la planificación y gestión eficiente del turismo, asegurando un equilibrio entre el desarrollo económico y la preservación de los recursos.
             .cajon.cajon.color-secundario.p-4.mb-4
               p.mb-0 <b>Ejemplo</b>: la valoración del Patrimonio de la Humanidad en Machu Picchu, ha llevado a la implementación de medidas de conservación y gestión de visitantes para proteger tanto el sitio como la experiencia del turista.
-          .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
+          .col-lg-6.col-8.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema3/img38.png', alt='Imagen decorativa')
           
