@@ -226,15 +226,15 @@
           .col-lg-8.md-10.col-12.order-lg-2.order-2
             .cajon.cajon1.p-4.mb-4
               ul.lista-ul
+                li.mb-0 
+                  i.fas.fa-angle-right
+                  p.mb-0 <b>Rutas de acceso</b>: carreteras, senderos y opciones de transporte.
+                li.mb-0 
+                  i.fas.fa-angle-right
+                  p.mb-0 <b>Distribución de servicios</b>: hoteles, restaurantes, estaciones de servicio. 
                 li 
                   i.fas.fa-angle-right
-                  | <b>Rutas de acceso</b>: carreteras, senderos y opciones de transporte.
-                li 
-                  i.fas.fa-angle-right
-                  | <b>Distribución de servicios</b>: hoteles, restaurantes, estaciones de servicio. 
-                li 
-                  i.fas.fa-angle-right
-                  | <b>Atractivos turísticos</b>: lugares de interés, monumentos, áreas recreativas.
+                  p.mb-0 <b>Atractivos turísticos</b>: lugares de interés, monumentos, áreas recreativas.
 
     p.mb-5(data-aos="fade-left") Los mapas turísticos son fundamentales tanto para los visitantes como para los gestores de destinos. Page (2014) subraya que una buena cartografía no solo facilita la navegación del turista, sino que también ayuda en la promoción del destino al destacar sus características únicas.
 

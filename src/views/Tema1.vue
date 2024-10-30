@@ -175,12 +175,12 @@
             .col-lg-10.order-lg-2.order-2
               p Además, los destinos deben centrarse en la creación de una experiencia holística para el visitante. Esto incluye:
               ul.lista-ul
+                li.mb-0 
+                  i.fas.fa-angle-right
+                  p.mb-0 La mejora de la infraestructura turística, como hoteles, restaurantes y medios de transporte
                 li 
                   i.fas.fa-angle-right
-                  | La mejora de la infraestructura turística, como hoteles, restaurantes y medios de transporte
-                li 
-                  i.fas.fa-angle-right
-                  | La capacitación del personal que interactúa con los turistas.
+                  p.mb-0 La capacitación del personal que interactúa con los turistas.
             .col-lg-2.col-4.order-lg-1.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema1/img11.svg', alt='Imagen decorativa')
@@ -284,15 +284,15 @@
           .row.justify-content-center
             .col-11
               ul.lista-ul
-                li 
+                li
                   i.fas.fa-angle-right
-                  | <b>Colaboración público-privada</b>: trabajar juntos para desarrollar infraestructuras adecuadas y servicios de calidad.
-                li 
+                  p.mb-0 <b>Colaboración público-privada</b>: trabajar juntos para desarrollar infraestructuras adecuadas y servicios de calidad.
+                li
                   i.fas.fa-angle-right
-                  | <b>Involucramiento de la comunidad local</b>: incluir a los habitantes en el proceso de toma de decisiones para que se beneficien del turismo.
-                li 
+                  p.mb-0 <b>Involucramiento de la comunidad local</b>: incluir a los habitantes en el proceso de toma de decisiones para que se beneficien del turismo.
+                li
                   i.fas.fa-angle-right
-                  | <b>Formación y capacitación</b>: ofrecer formación a las empresas y comunidades locales para mejorar la calidad de los servicios turísticos.
+                  p.mb-0 <b>Formación y capacitación</b>: ofrecer formación a las empresas y comunidades locales para mejorar la calidad de los servicios turísticos.
         
       
 </template>

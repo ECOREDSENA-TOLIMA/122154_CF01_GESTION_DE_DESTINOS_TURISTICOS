@@ -101,21 +101,35 @@
     
     p.mb-5(data-aos="fade-left") Los bienes naturales incluyen elementos del entorno físico que tienen un valor estético, ecológico o recreativo. Estos bienes son fundamentales para el desarrollo del turismo sostenible y pueden incluir:
 
-    .row.justify-content-center.mb-5(data-aos="flip-up")
-      .col-xl-3.col-6.mb-xl-0.mb-4
-        figure
-          img(src='@/assets/curso/temas/tema3/img10.svg', alt='Imagen decorativa')
-      .col-lg-9.col-12
-        TabsA.color-acento-botones.mb-5
-          .tarjeta.color5.p-4(titulo="Parques nacionales")
-            h4 Parques nacionales
-            p Áreas protegidas que preservan ecosistemas frágiles.
-          .tarjeta.color5.p-4(titulo="Montañas, ríos y playas")
-            h4 Montañas, ríos y playas
-            p Recursos naturales que ofrecen experiencias recreativas.
-          .tarjeta.color5.p-4(titulo="Reservas de la biosfera")
-            h4 Reservas de la biosfera
-            p Espacios de alta biodiversidad con reconocimiento internacional.
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10.col-12
+        .row.justify-content-center.align-items-center
+          .col-lg-6.col-12.mb-md-0.order-lg-2.order-2
+            LineaTiempoD.color-acento-botones.especial
+              p(numero="1" titulo="Parques nacionales") Áreas protegidas que preservan ecosistemas frágiles.
+              
+              p(numero="2" titulo="Montañas, ríos y playas") Recursos naturales que ofrecen experiencias recreativas.
+              
+              p(numero="3" titulo="Reservas de la biosfera") Espacios de alta biodiversidad con reconocimiento internacional.
+          .col-lg-6.col-8.order-lg-1.order-1.mb-lg-0.mb-4
+            figure
+              img(src='@/assets/curso/temas/tema3/img10.svg', alt='Imagen decorativa')
+
+    //- .row.justify-content-center.mb-5(data-aos="flip-up")
+    //-   .col-xl-3.col-6.mb-xl-0.mb-4
+    //-     figure
+    //-       img(src='@/assets/curso/temas/tema3/img10.svg', alt='Imagen decorativa')
+    //-   .col-lg-9.col-12
+    //-     TabsA.color-acento-botones.mb-5
+    //-       .tarjeta.color5.p-4(titulo="Parques nacionales")
+    //-         h4 Parques nacionales
+    //-         p Áreas protegidas que preservan ecosistemas frágiles.
+    //-       .tarjeta.color5.p-4(titulo="Montañas, ríos y playas")
+    //-         h4 Montañas, ríos y playas
+    //-         p Recursos naturales que ofrecen experiencias recreativas.
+    //-       .tarjeta.color5.p-4(titulo="Reservas de la biosfera")
+    //-         h4 Reservas de la biosfera
+    //-         p Espacios de alta biodiversidad con reconocimiento internacional.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
@@ -301,15 +315,15 @@
                 img(src='@/assets/curso/temas/tema3/img27.svg', alt='Imagen decorativa')
             .col-lg-9.col-12
               ul.lista-ul
-                li.li 
+                li 
                   i.fas.fa-angle-right
-                  | Viajar a destinos que promuevan la conservación de la naturaleza y la cultura local.
-                li.li 
+                  p.mb-0 Viajar a destinos que promuevan la conservación de la naturaleza y la cultura local.
+                li 
                   i.fas.fa-angle-right
-                  | Participar en actividades respetuosas con el entorno, como el ecoturismo.
-                li.li 
+                  p.mb-0 Participar en actividades respetuosas con el entorno, como el ecoturismo.
+                li 
                   i.fas.fa-angle-right
-                  | Escoger alojamientos y empresas que adopten prácticas de sostenibilidad, como el uso de energía renovable o la gestión eficiente de los recursos hídricos.
+                  p.mb-0 Escoger alojamientos y empresas que adopten prácticas de sostenibilidad, como el uso de energía renovable o la gestión eficiente de los recursos hídricos.
 
     p.mb-5(data-aos="fade-left") Esta tendencia no solo responde a la preocupación ambiental, sino también a un creciente deseo de vivir experiencias más auténticas y significativas. Las empresas turísticas que ofrecen productos alineados con la sostenibilidad, como eco-lodges o tours con impacto social, están captando una mayor cuota de mercado. Un ejemplo destacado son los tours en la Amazonía que integran la conservación de la biodiversidad con la participación de comunidades locales.
 
@@ -328,19 +342,19 @@
                 img(src='@/assets/curso/temas/tema3/img28.svg', alt='Imagen decorativa')
             .col-lg-9.col-12
               ul.lista-ul
-                li.li 
+                li 
                   i.fas.fa-angle-right
-                  | <i>Tours</i> privados que permiten a los viajeros diseñar su propio itinerario.
-                li.li 
+                  p.mb-0 <i>Tours</i> privados que permiten a los viajeros diseñar su propio itinerario.
+                li 
                   i.fas.fa-angle-right
-                  | Experiencias culturales inmersivas, como aprender a cocinar platos locales en casa de un residente o participar en talleres de artesanía tradicional.
-                li.li 
+                  p.mb-0 Experiencias culturales inmersivas, como aprender a cocinar platos locales en casa de un residente o participar en talleres de artesanía tradicional.
+                li 
                   i.fas.fa-angle-right
-                  | Alojamientos boutique que ofrecen servicios exclusivos, adaptados a los gustos y preferencias de los huéspedes.
+                  p.mb-0 Alojamientos boutique que ofrecen servicios exclusivos, adaptados a los gustos y preferencias de los huéspedes.
 
     p.mb-5(data-aos="fade-left") Esta tendencia ha llevado a los destinos turísticos a diversificar su oferta y a colaborar con proveedores locales para crear experiencias diferenciadas. Además, las empresas turísticas están utilizando datos y análisis predictivos para personalizar la experiencia de cada cliente, desde las recomendaciones de actividades hasta los servicios adicionales.
 
-    .container.BG05.p-4.mb-5
+    .tarjeta.tarjeta--BG05.p-4.mb-5
       .row.justify-content-center.align-items-center(data-aos="flip-up")
         .col-lg-10.col-12
           .row.justify-content-center.align-items-center
@@ -348,15 +362,15 @@
               .cajon.cajon1.color-primario.p-4.mb-4
                 p.mb-0 El uso de la tecnología ha transformado radicalmente la forma en que los turistas planifican, reservan y disfrutan de sus viajes. Las plataformas digitales, aplicaciones móviles y herramientas interactivas permiten a los viajeros tener un control total sobre su experiencia. Entre los avances más destacados están:
               ul.lista-ul
-                li.li 
+                li 
                   i.fas.fa-angle-right
-                  | Aplicaciones de reserva en tiempo real, que permiten a los turistas reservar alojamiento, transporte y actividades desde su dispositivo móvil.
-                li.li 
+                  p.mb-0 Aplicaciones de reserva en tiempo real, que permiten a los turistas reservar alojamiento, transporte y actividades desde su dispositivo móvil.
+                li 
                   i.fas.fa-angle-right
-                  | Guías interactivas y tours virtuales que ayudan a los viajeros a explorar destinos antes de llegar.
-                li.li 
+                  p.mb-0 Guías interactivas y tours virtuales que ayudan a los viajeros a explorar destinos antes de llegar.
+                li 
                   i.fas.fa-angle-right
-                  | Realidad aumentada y realidad virtual, que están siendo utilizadas por algunos destinos para ofrecer experiencias más inmersivas a los visitantes.
+                  p.mb-0 Realidad aumentada y realidad virtual, que están siendo utilizadas por algunos destinos para ofrecer experiencias más inmersivas a los visitantes.
             .col-lg-6.col-7.order-lg-1.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema3/img29.png', alt='Imagen decorativa')
@@ -373,15 +387,15 @@
                 img(src='@/assets/curso/temas/tema3/img30.svg', alt='Imagen decorativa')
             .col-lg-9.col-12
               ul.lista-ul
-                li.li 
+                li 
                   i.fas.fa-angle-right
-                  | La elección de alojamientos y tours que empleen a personas locales y reinviertan en la economía local.
-                li.li 
+                  p.mb-0 La elección de alojamientos y tours que empleen a personas locales y reinviertan en la economía local.
+                li 
                   i.fas.fa-angle-right
-                  | El consumo de productos locales, como artesanías y alimentos, para apoyar la producción sostenible y las economías comunitarias.
-                li.li 
+                  p.mb-0 El consumo de productos locales, como artesanías y alimentos, para apoyar la producción sostenible y las economías comunitarias.
+                li 
                   i.fas.fa-angle-right
-                  | La participación en proyectos de voluntariado o turismo solidario que contribuyan al desarrollo de las comunidades visitadas.
+                  p.mb-0 La participación en proyectos de voluntariado o turismo solidario que contribuyan al desarrollo de las comunidades visitadas.
 
     p.mb-5(data-aos="fade-left") Page (2014) menciona que las tendencias de consumo del turista están estrechamente vinculadas a factores socioeconómicos, como el nivel de ingresos disponibles, la clase social y el acceso a la información. Los avances tecnológicos han facilitado el acceso a la información turística, lo que permite a los viajeros estar mejor informados y ser más exigentes con las ofertas y servicios que eligen.
 
@@ -402,6 +416,7 @@
 
     p.mb-5(data-aos="fade-left") La oferta turística del territorio engloba el conjunto de bienes, servicios e infraestructuras disponibles para satisfacer las necesidades y expectativas de los turistas. Este concepto no se limita a los atractivos naturales y culturales, sino que también incluye los servicios complementarios que permiten a los visitantes disfrutar de una experiencia integral. Una oferta turística competitiva y bien estructurada contribuye al posicionamiento de un destino en el mercado global. Los principales componentes de la oferta turística son:
 
+    
     .tarjeta.tarjeta--BG01.p-4.mb-5
       .tarjeta.tarjeta--blanca.p-4
         PasosB.color-acento-botones
@@ -412,10 +427,10 @@
               ul.lista-ul
                 li.mb-0 
                   i.lista-ul__vineta
-                  | Atractivos naturales, como parques nacionales, playas y montañas.
+                  p.mb-0 Atractivos naturales, como parques nacionales, playas y montañas.
                 li 
                   i.lista-ul__vineta
-                  | Atractivos culturales e históricos, como monumentos, museos, y festivales locales.
+                  p.mb-0 Atractivos culturales e históricos, como monumentos, museos, y festivales locales.
               p La diversidad y singularidad de los atractivos son claves para atraer diferentes tipos de turistas. Por ejemplo, un destino con una mezcla de turismo cultural y de naturaleza puede atraer tanto a viajeros interesados en la historia como a quienes buscan aventuras al aire libre.
           
             .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
@@ -429,13 +444,13 @@
               ul.lista-ul
                 li 
                   i.lista-ul__vineta
-                  | Alojamiento, desde hoteles y hostales hasta opciones más modernas como Airbnb.
+                  p.mb-0 Alojamiento, desde hoteles y hostales hasta opciones más modernas como Airbnb.
                 li 
                   i.lista-ul__vineta
-                  | Restauración, con una oferta que abarca desde la comida rápida hasta la alta gastronomía.
+                  p.mb-0 Restauración, con una oferta que abarca desde la comida rápida hasta la alta gastronomía.
                 li 
                   i.lista-ul__vineta
-                  | Transporte, tanto para llegar al destino (aeropuertos, estaciones de tren) como para desplazarse dentro de él (transporte público, alquiler de coches).
+                  p.mb-0 Transporte, tanto para llegar al destino (aeropuertos, estaciones de tren) como para desplazarse dentro de él (transporte público, alquiler de coches).
           
             .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
@@ -448,13 +463,13 @@
               ul.lista-ul
                 li.mb-0 
                   i.lista-ul__vineta
-                  | Guías turísticos, que ofrecen una inmersión más profunda en la cultura e historia local.
+                  p.mb-0 Guías turísticos, que ofrecen una inmersión más profunda en la cultura e historia local.
                 li.mb-0 
                   i.lista-ul__vineta
-                  | Excursiones y actividades recreativas, adaptadas a las preferencias de los turistas, como visitas a sitios de interés, deportes de aventura, o tours gastronómicos. 
+                  p.mb-0 Excursiones y actividades recreativas, adaptadas a las preferencias de los turistas, como visitas a sitios de interés, deportes de aventura, o tours gastronómicos. 
                 li 
                   i.lista-ul__vineta
-                  | Centros de información turística, que brindan asistencia y orientación a los viajeros.
+                  p.mb-0 Centros de información turística, que brindan asistencia y orientación a los viajeros.
               p Estos servicios son esenciales para enriquecer la experiencia del turista y garantizar su satisfacción.
           
             .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
