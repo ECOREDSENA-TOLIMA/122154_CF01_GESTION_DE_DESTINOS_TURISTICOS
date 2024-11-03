@@ -133,7 +133,7 @@
       .col-lg-10.col-12
         .row.justify-content-center.align-items-center
           .col-lg-6.col-12.order-lg-2.order-2
-            p Un conocimiento profundo de la geografía general permite a los gestores turísticos planificar mejor las actividades y anticipar posibles retos, como el impacto del clima en la afluencia de turistas.
+            p Un conocimiento profundo de la geografía general, permite a los gestores turísticos planificar mejor las actividades y anticipar posibles retos, como el impacto del clima en la afluencia de turistas.
             .cajon.cajon.color-secundario.p-4.mb-4
               p.mb-0 <b>Ejemplo</b>: las islas del Caribe dependen del clima cálido y tropical para atraer turistas, pero también deben prepararse para temporadas de huracanes que pueden afectar su infraestructura turística.
           .col-lg-6.col-8.order-lg-1.order-1.mb-lg-0.mb-4
@@ -236,7 +236,7 @@
                   i.fas.fa-angle-right
                   p.mb-0 <b>Atractivos turísticos</b>: lugares de interés, monumentos, áreas recreativas.
 
-    p.mb-5(data-aos="fade-left") Los mapas turísticos son fundamentales tanto para los visitantes como para los gestores de destinos. Page (2014) subraya que una buena cartografía no solo facilita la navegación del turista, sino que también ayuda en la promoción del destino al destacar sus características únicas.
+    p.mb-5(data-aos="fade-left") Los mapas turísticos son fundamentales tanto para los visitantes como para los gestores de destinos. Page (2014), subraya que una buena cartografía no solo facilita la navegación del turista, sino que también ayuda en la promoción del destino al destacar sus características únicas.
 
     .row.justify-content-center(data-aos="flip-up")
       .col-lg-10.col-12

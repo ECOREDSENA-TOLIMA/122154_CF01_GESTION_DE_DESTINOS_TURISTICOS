@@ -54,7 +54,7 @@
         .row.justify-content-center.p-4
           .col-lg-6.order-lg-2.order-2
             h4 El turismo de aventura
-            p Se centra en experiencias emocionantes y activas, como el senderismo, la escalada o el rafting. Este tipo de turismo atrae a quienes buscan experiencias desafiantes y la conexión con la naturaleza.
+            p Se centra en experiencias emocionantes y activas, como el senderismo, la escalada o el <i>rafting</i>. Este tipo de turismo atrae a quienes buscan experiencias desafiantes y la conexión con la naturaleza.
         
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure

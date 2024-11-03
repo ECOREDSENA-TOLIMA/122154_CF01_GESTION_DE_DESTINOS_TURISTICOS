@@ -161,7 +161,7 @@
               p Jafari (1996) subraya la necesidad de equilibrar la exposición cultural con la autenticidad, para evitar que la cultura se mercantilice en exceso. En otras palabras, se debe permitir que los turistas conozcan y aprecien las expresiones culturales, siempre respetando las normas y el contexto social en el que estas se desarrollan. 
           .row(titulo="Ejemplos de identidad cultural y turismo")
             .col-lg-12.mb-4.mb-lg-0
-              p Un ejemplo de este equilibrio es la presentación de los rituales y ceremonias maoríes en Nueva Zelanda. Estas prácticas son una manifestación de la identidad cultural maorí que atrae a muchos turistas, quienes buscan conocerlas de manera auténtica. Sin embargo, las autoridades turísticas y las comunidades locales trabajan en conjunto para asegurar que estas prácticas se mantengan fieles a sus raíces, respetando las tradiciones y la dignidad del pueblo maorí.
+              p Un ejemplo de este equilibrio es la presentación de los rituales y ceremonias maoríes en Nueva Zelanda. Estas prácticas son una manifestación de la identidad cultural maorí que atrae a muchos turistas, quienes buscan conocerlas de manera auténtica. Sin embargo, las autoridades turísticas y las comunidades locales trabajan en conjunto para asegurar que estas prácticas se mantengan fieles a sus raíces, respetando las tradiciones y la dignidad del pueblo Maorí.
               p Otro ejemplo es la preservación de la lengua catalana en España, donde el turismo ha contribuido a revitalizar el interés por las lenguas regionales, mientras que las autoridades locales implementan políticas que fomentan su uso y transmisión en entornos turísticos.
           .row(titulo="Estrategias para proteger la identidad cultural")
             .col-lg-12.mb-4.mb-lg-0
@@ -200,7 +200,7 @@
             figure
               img(src='@/assets/curso/temas/tema3/img15.png', alt='Imagen decorativa')
           .col-lg-5.order-lg-1.order-2
-            p Su enfoque está en las actividades al aire libre y los deportes extremos, como senderismo, escalada, rafting o surf. Prefieren destinos naturales que ofrezcan retos físicos y contacto con la naturaleza. Los destinos con paisajes exuberantes y oportunidades para la exploración son atractivos para este grupo.
+            p Su enfoque está en las actividades al aire libre y los deportes extremos, como senderismo, escalada, <i>rafting</i> o surf. Prefieren destinos naturales que ofrezcan retos físicos y contacto con la naturaleza. Los destinos con paisajes exuberantes y oportunidades para la exploración son atractivos para este grupo.
 
       .py-3.py-md-4(titulo="Turistas de negocios")
         .row.justify-content-center.p-4
@@ -268,7 +268,7 @@
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
               h4.mb-0 Ejemplo turista de aventura
-            p.text-center.mb-0 El turista de aventura que viaja a Costa Rica, atraído por actividades como el senderismo en la selva tropical, el rafting en ríos de aguas bravas y el avistamiento de fauna exótica.
+            p.text-center.mb-0 El turista de aventura que viaja a Costa Rica, atraído por actividades como el senderismo en la selva tropical, el <i>rafting</i> en ríos de aguas bravas y el avistamiento de fauna exótica.
 
       .col-xl-4.col-lg-6.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
@@ -325,7 +325,7 @@
                   i.fas.fa-angle-right
                   p.mb-0 Escoger alojamientos y empresas que adopten prácticas de sostenibilidad, como el uso de energía renovable o la gestión eficiente de los recursos hídricos.
 
-    p.mb-5(data-aos="fade-left") Esta tendencia no solo responde a la preocupación ambiental, sino también a un creciente deseo de vivir experiencias más auténticas y significativas. Las empresas turísticas que ofrecen productos alineados con la sostenibilidad, como eco-lodges o tours con impacto social, están captando una mayor cuota de mercado. Un ejemplo destacado son los tours en la Amazonía que integran la conservación de la biodiversidad con la participación de comunidades locales.
+    p.mb-5(data-aos="fade-left") Esta tendencia no solo responde a la preocupación ambiental, sino también a un creciente deseo de vivir experiencias más auténticas y significativas. Las empresas turísticas que ofrecen productos alineados con la sostenibilidad, como <i>eco-lodges</i> o <i>tours</i> con impacto social, están captando una mayor cuota de mercado. Un ejemplo destacado son los <i>tours</i> en la Amazonía que integran la conservación de la biodiversidad con la participación de comunidades locales.
 
     .titulo.mb-5(data-aos="flip-up")
       img(src='@/assets/curso/temas/ico.svg', alt='Imagen decorativa')
@@ -367,7 +367,7 @@
                   p.mb-0 Aplicaciones de reserva en tiempo real, que permiten a los turistas reservar alojamiento, transporte y actividades desde su dispositivo móvil.
                 li 
                   i.fas.fa-angle-right
-                  p.mb-0 Guías interactivas y tours virtuales que ayudan a los viajeros a explorar destinos antes de llegar.
+                  p.mb-0 Guías interactivas y <i>tours</i> virtuales que ayudan a los viajeros a explorar destinos antes de llegar.
                 li 
                   i.fas.fa-angle-right
                   p.mb-0 Realidad aumentada y realidad virtual, que están siendo utilizadas por algunos destinos para ofrecer experiencias más inmersivas a los visitantes.
@@ -389,7 +389,7 @@
               ul.lista-ul
                 li 
                   i.fas.fa-angle-right
-                  p.mb-0 La elección de alojamientos y tours que empleen a personas locales y reinviertan en la economía local.
+                  p.mb-0 La elección de alojamientos y <i>tours</i> que empleen a personas locales y reinviertan en la economía local.
                 li 
                   i.fas.fa-angle-right
                   p.mb-0 El consumo de productos locales, como artesanías y alimentos, para apoyar la producción sostenible y las economías comunitarias.
@@ -397,7 +397,7 @@
                   i.fas.fa-angle-right
                   p.mb-0 La participación en proyectos de voluntariado o turismo solidario que contribuyan al desarrollo de las comunidades visitadas.
 
-    p.mb-5(data-aos="fade-left") Page (2014) menciona que las tendencias de consumo del turista están estrechamente vinculadas a factores socioeconómicos, como el nivel de ingresos disponibles, la clase social y el acceso a la información. Los avances tecnológicos han facilitado el acceso a la información turística, lo que permite a los viajeros estar mejor informados y ser más exigentes con las ofertas y servicios que eligen.
+    p.mb-5(data-aos="fade-left") Page (2014), menciona que las tendencias de consumo del turista están estrechamente vinculadas a factores socioeconómicos, como el nivel de ingresos disponibles, la clase social y el acceso a la información. Los avances tecnológicos han facilitado el acceso a la información turística, lo que permite a los viajeros estar mejor informados y ser más exigentes con las ofertas y servicios que eligen.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
@@ -466,7 +466,7 @@
                   p.mb-0 Guías turísticos, que ofrecen una inmersión más profunda en la cultura e historia local.
                 li.mb-0 
                   i.lista-ul__vineta
-                  p.mb-0 Excursiones y actividades recreativas, adaptadas a las preferencias de los turistas, como visitas a sitios de interés, deportes de aventura, o tours gastronómicos. 
+                  p.mb-0 Excursiones y actividades recreativas, adaptadas a las preferencias de los turistas, como visitas a sitios de interés, deportes de aventura, o <i>tours</i> gastronómicos. 
                 li 
                   i.lista-ul__vineta
                   p.mb-0 Centros de información turística, que brindan asistencia y orientación a los viajeros.
@@ -496,7 +496,7 @@
     #t_3_7.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.7 Valoración del territorio
 
-    p.mb-5(data-aos="fade-left") La valoración del territorio es el proceso de identificar y evaluar los recursos turísticos de una región para maximizar su potencial. Esta valoración implica analizar:
+    p.mb-5(data-aos="fade-left") La valoración del territorio, es el proceso de identificar y evaluar los recursos turísticos de una región para maximizar su potencial. Esta valoración implica analizar:
 
     .row.justify-content-center(data-aos="flip-up")
       .col-lg-10.desktop
@@ -520,7 +520,7 @@
       .col-lg-10.col-12
         .row.justify-content-center.align-items-center
           .col-lg-6.col-12.order-lg-2.order-2
-            p Bhatia (2005) menciona que una valoración adecuada del territorio es esencial para la planificación y gestión eficiente del turismo, asegurando un equilibrio entre el desarrollo económico y la preservación de los recursos.
+            p Bhatia (2005), menciona que una valoración adecuada del territorio es esencial para la planificación y gestión eficiente del turismo, asegurando un equilibrio entre el desarrollo económico y la preservación de los recursos.
             .cajon.cajon.color-secundario.p-4.mb-4
               p.mb-0 <b>Ejemplo</b>: la valoración del Patrimonio de la Humanidad en Machu Picchu, ha llevado a la implementación de medidas de conservación y gestión de visitantes para proteger tanto el sitio como la experiencia del turista.
           .col-lg-6.col-8.order-lg-1.order-1.mb-lg-0.mb-4
