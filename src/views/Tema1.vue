@@ -45,7 +45,7 @@
         .row.justify-content-center.p-4
           .col-lg-6.order-lg-2.order-2
             h4 El turismo de ocio
-            p Es quizás la forma más tradicional y abarca actividades recreativas y de descanso, donde el principal objetivo es el disfrute personal. Este tipo de turismo se enfoca en la relajación y el entretenimiento, siendo común en playas, <i>resorts</i> y destinos de naturaleza.
+            p Es quizás la forma más tradicional y abarca actividades recreativas y de descanso, donde el principal objetivo es el disfrute personal. Este tipo de turismo se enfoca en la relajación y el entretenimiento, siendo común en playas, <em>resorts</em> y destinos de naturaleza.
         
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
@@ -54,7 +54,7 @@
         .row.justify-content-center.p-4
           .col-lg-6.order-lg-2.order-2
             h4 El turismo de aventura
-            p Se centra en experiencias emocionantes y activas, como el senderismo, la escalada o el <i>rafting</i>. Este tipo de turismo atrae a quienes buscan experiencias desafiantes y la conexión con la naturaleza.
+            p Se centra en experiencias emocionantes y activas, como el senderismo, la escalada o el <em>rafting</em>. Este tipo de turismo atrae a quienes buscan experiencias desafiantes y la conexión con la naturaleza.
         
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
@@ -112,7 +112,7 @@
       .col-lg-10.col-12
         .row.justify-content-center.align-items-center
           .col-lg-6.col-12.order-lg-2.order-2
-            p La identificación y promoción de estos atractivos es crucial para la estrategia de <i>marketing</i> de cualquier destino turístico. Una gestión adecuada de los atractivos puede generar un aumento significativo en la demanda turística. Esto implica no solo reconocer qué elementos son atractivos, sino también trabajar en su conservación, accesibilidad y presentación. La creación de paquetes turísticos, eventos y campañas publicitarias que resalten estos atractivos puede contribuir al crecimiento sostenible del turismo en la región.
+            p La identificación y promoción de estos atractivos es crucial para la estrategia de <em>marketing</em> de cualquier destino turístico. Una gestión adecuada de los atractivos puede generar un aumento significativo en la demanda turística. Esto implica no solo reconocer qué elementos son atractivos, sino también trabajar en su conservación, accesibilidad y presentación. La creación de paquetes turísticos, eventos y campañas publicitarias que resalten estos atractivos puede contribuir al crecimiento sostenible del turismo en la región.
             p La importancia de los atractivos turísticos se extiende más allá de la mera atracción de visitantes. También desempeñan un papel vital en el desarrollo económico local, ya que fomentan la creación de empleo, el crecimiento de la infraestructura y la mejora de la calidad de vida en las comunidades que dependen del turismo. Además, al promover el respeto y la valoración del patrimonio cultural y natural, se puede contribuir a la sostenibilidad y protección de estos recursos para las futuras generaciones.
           .col-lg-6.col-8.order-lg-1.order-1.mb-lg-0.mb-4
             figure
@@ -166,7 +166,7 @@
         figure
           img(src='@/assets/curso/temas/tema1/img10.png', alt='Imagen decorativa')
 
-    p.mb-5(data-aos="fade-left") La gestión efectiva de un destino turístico implica una serie de acciones estratégicas. En primer lugar, es esencial promover los atractivos que caracterizan al destino, ya sean estos históricos, naturales o culturales. Esto puede incluir la elaboración de campañas de <i>marketing</i> que destaquen los eventos locales, las tradiciones y los recursos naturales disponibles. Sin embargo, la promoción de los atractivos es solo una parte del proceso.
+    p.mb-5(data-aos="fade-left") La gestión efectiva de un destino turístico implica una serie de acciones estratégicas. En primer lugar, es esencial promover los atractivos que caracterizan al destino, ya sean estos históricos, naturales o culturales. Esto puede incluir la elaboración de campañas de <em>marketing</em> que destaquen los eventos locales, las tradiciones y los recursos naturales disponibles. Sin embargo, la promoción de los atractivos es solo una parte del proceso.
 
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col-lg-10.col-12          
@@ -265,7 +265,7 @@
                 img(src='@/assets/curso/temas/tema1/img20.png', alt='Imagen decorativa')
             
           h4.text-center Desarrollo de estrategias efectivas
-          p.text-center Diseñar campañas de <i>marketing</i> y productos turísticos adaptados a las necesidades de los turistas.
+          p.text-center Diseñar campañas de <em>marketing</em> y productos turísticos adaptados a las necesidades de los turistas.
 
         .col-xl.col-md-6.tarjeta.color-acento-contenido.p-5
           .row.justify-content-center.mb-3

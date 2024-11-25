@@ -174,7 +174,7 @@
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.4 Tipología de turistas
 
-    p.mb-5(data-aos="fade-left") La tipología de turistas se refiere a la clasificación de los viajeros en función de sus motivaciones, intereses, comportamientos y preferencias. Esta categorización es fundamental para que los gestores turísticos adapten la oferta de productos y servicios a las necesidades específicas de los diferentes tipos de turistas. Además, la tipología de turistas permite identificar tendencias y orientar estrategias de <i>marketing</i>, facilitando la segmentación del mercado y la creación de experiencias personalizadas. Algunas de las categorías más comunes incluyen:
+    p.mb-5(data-aos="fade-left") La tipología de turistas se refiere a la clasificación de los viajeros en función de sus motivaciones, intereses, comportamientos y preferencias. Esta categorización es fundamental para que los gestores turísticos adapten la oferta de productos y servicios a las necesidades específicas de los diferentes tipos de turistas. Además, la tipología de turistas permite identificar tendencias y orientar estrategias de <em>marketing</em>, facilitando la segmentación del mercado y la creación de experiencias personalizadas. Algunas de las categorías más comunes incluyen:
 
 
     TabsC.color-acento-botones.mb-5(data-aos="flip-up")
@@ -184,7 +184,7 @@
             figure
               img(src='@/assets/curso/temas/tema3/img13.png', alt='Imagen decorativa')
           .col-lg-5.order-lg-1.order-2
-            p Viajan para relajarse, disfrutar de actividades recreativas y escapar de la rutina diaria. Suelen preferir destinos que ofrezcan comodidad, entretenimiento y actividades de bajo esfuerzo, como playas, <i>resorts</i>, o cruceros.
+            p Viajan para relajarse, disfrutar de actividades recreativas y escapar de la rutina diaria. Suelen preferir destinos que ofrezcan comodidad, entretenimiento y actividades de bajo esfuerzo, como playas, <em>resorts</em>, o cruceros.
 
       .py-3.py-md-4(titulo="Turistas culturales")
         .row.justify-content-center.p-4
@@ -200,7 +200,7 @@
             figure
               img(src='@/assets/curso/temas/tema3/img15.png', alt='Imagen decorativa')
           .col-lg-5.order-lg-1.order-2
-            p Su enfoque está en las actividades al aire libre y los deportes extremos, como senderismo, escalada, <i>rafting</i> o surf. Prefieren destinos naturales que ofrezcan retos físicos y contacto con la naturaleza. Los destinos con paisajes exuberantes y oportunidades para la exploración son atractivos para este grupo.
+            p Su enfoque está en las actividades al aire libre y los deportes extremos, como senderismo, escalada, <em>rafting</em> o <em>surf</em>. Prefieren destinos naturales que ofrezcan retos físicos y contacto con la naturaleza. Los destinos con paisajes exuberantes y oportunidades para la exploración son atractivos para este grupo.
 
       .py-3.py-md-4(titulo="Turistas de negocios")
         .row.justify-content-center.p-4
@@ -250,7 +250,7 @@
             figure
               img(src='@/assets/curso/temas/tema3/img20.png', alt='Imagen decorativa')
 
-    p.mb-5(data-aos="fade-left") Identificar la tipología de los turistas es crucial para diseñar productos turísticos específicos y desarrollar estrategias de <i>marketing</i> efectivas. Cooper et al. (2008) señalan que las preferencias y comportamientos de los turistas varían ampliamente según el tipo de viajero, lo que obliga a los destinos a diversificar su oferta para satisfacer estas demandas.
+    p.mb-5(data-aos="fade-left") Identificar la tipología de los turistas es crucial para diseñar productos turísticos específicos y desarrollar estrategias de <em>marketing</em> efectivas. Cooper et al. (2008) señalan que las preferencias y comportamientos de los turistas varían ampliamente según el tipo de viajero, lo que obliga a los destinos a diversificar su oferta para satisfacer estas demandas.
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
@@ -268,7 +268,7 @@
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
               h4.mb-0 Ejemplo turista de aventura
-            p.text-center.mb-0 El turista de aventura que viaja a Costa Rica, atraído por actividades como el senderismo en la selva tropical, el <i>rafting</i> en ríos de aguas bravas y el avistamiento de fauna exótica.
+            p.text-center.mb-0 El turista de aventura que viaja a Costa Rica, atraído por actividades como el senderismo en la selva tropical el #[em rafting] en ríos de aguas bravas y el avistamiento de fauna exótica.
 
       .col-xl-4.col-lg-6.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
@@ -325,7 +325,7 @@
                   i.fas.fa-angle-right
                   p.mb-0 Escoger alojamientos y empresas que adopten prácticas de sostenibilidad, como el uso de energía renovable o la gestión eficiente de los recursos hídricos.
 
-    p.mb-5(data-aos="fade-left") Esta tendencia no solo responde a la preocupación ambiental, sino también a un creciente deseo de vivir experiencias más auténticas y significativas. Las empresas turísticas que ofrecen productos alineados con la sostenibilidad, como <i>eco-lodges</i> o <i>tours</i> con impacto social, están captando una mayor cuota de mercado. Un ejemplo destacado son los <i>tours</i> en la Amazonía que integran la conservación de la biodiversidad con la participación de comunidades locales.
+    p.mb-5(data-aos="fade-left") Esta tendencia no solo responde a la preocupación ambiental, sino también a un creciente deseo de vivir experiencias más auténticas y significativas. Las empresas turísticas que ofrecen productos alineados con la sostenibilidad, como <em>eco-lodges</em> o <em>tours</em> con impacto social, están captando una mayor cuota de mercado. Un ejemplo destacado son los <em>tours</em> en la Amazonía que integran la conservación de la biodiversidad con la participación de comunidades locales.
 
     .titulo.mb-5(data-aos="flip-up")
       img(src='@/assets/curso/temas/ico.svg', alt='Imagen decorativa')
@@ -344,7 +344,7 @@
               ul.lista-ul
                 li 
                   i.fas.fa-angle-right
-                  p.mb-0 <i>Tours</i> privados que permiten a los viajeros diseñar su propio itinerario.
+                  p.mb-0 <em>Tours</em> privados que permiten a los viajeros diseñar su propio itinerario.
                 li 
                   i.fas.fa-angle-right
                   p.mb-0 Experiencias culturales inmersivas, como aprender a cocinar platos locales en casa de un residente o participar en talleres de artesanía tradicional.
@@ -367,7 +367,7 @@
                   p.mb-0 Aplicaciones de reserva en tiempo real, que permiten a los turistas reservar alojamiento, transporte y actividades desde su dispositivo móvil.
                 li 
                   i.fas.fa-angle-right
-                  p.mb-0 Guías interactivas y <i>tours</i> virtuales que ayudan a los viajeros a explorar destinos antes de llegar.
+                  p.mb-0 Guías interactivas y <em>tours</em> virtuales que ayudan a los viajeros a explorar destinos antes de llegar.
                 li 
                   i.fas.fa-angle-right
                   p.mb-0 Realidad aumentada y realidad virtual, que están siendo utilizadas por algunos destinos para ofrecer experiencias más inmersivas a los visitantes.
@@ -389,7 +389,7 @@
               ul.lista-ul
                 li 
                   i.fas.fa-angle-right
-                  p.mb-0 La elección de alojamientos y <i>tours</i> que empleen a personas locales y reinviertan en la economía local.
+                  p.mb-0 La elección de alojamientos y <em>tours</em> que empleen a personas locales y reinviertan en la economía local.
                 li 
                   i.fas.fa-angle-right
                   p.mb-0 El consumo de productos locales, como artesanías y alimentos, para apoyar la producción sostenible y las economías comunitarias.
@@ -466,7 +466,7 @@
                   p.mb-0 Guías turísticos, que ofrecen una inmersión más profunda en la cultura e historia local.
                 li.mb-0 
                   i.lista-ul__vineta
-                  p.mb-0 Excursiones y actividades recreativas, adaptadas a las preferencias de los turistas, como visitas a sitios de interés, deportes de aventura, o <i>tours</i> gastronómicos. 
+                  p.mb-0 Excursiones y actividades recreativas, adaptadas a las preferencias de los turistas, como visitas a sitios de interés, deportes de aventura, o <em>tours</em> gastronómicos. 
                 li 
                   i.lista-ul__vineta
                   p.mb-0 Centros de información turística, que brindan asistencia y orientación a los viajeros.

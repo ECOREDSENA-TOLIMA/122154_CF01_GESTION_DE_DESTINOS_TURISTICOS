@@ -171,7 +171,7 @@
             figure
               img(src='@/assets/curso/temas/tema2/img12.svg', alt='Imagen decorativa')
           
-        h4.text-center <i>Resorts</i>
+        h4.text-center <em>Resorts</em>
         p Espacios diseñados exclusivamente para el turismo.
 
     p.mb-5(data-aos="fade-left") Estos espacios suelen requerir una gestión específica para mantener su atractivo y garantizar que el turismo no impacte negativamente en el entorno ni en las comunidades locales. Según Smith (2010), la creación de espacios turísticos debe ir acompañada de políticas de conservación y sostenibilidad para asegurar su viabilidad a largo plazo.

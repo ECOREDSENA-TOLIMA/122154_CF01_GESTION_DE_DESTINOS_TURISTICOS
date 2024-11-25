@@ -355,12 +355,12 @@ export default {
         },
         {
           nombre: 'Sebastian Trujillo Afanador',
-          cargo: 'Desarrollador <i>full stack</i>',
+          cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Diego Fernando Velasco Güiza',
-          cargo: 'Desarrollador <i>full stack</i>',
+          cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
