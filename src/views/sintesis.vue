@@ -10,7 +10,7 @@
         figure
           img(src="@/assets/curso/temas/sintesis.svg", alt=" En la síntesis del componente formativo Fundamentos del turismo y gestión del patrimonio, se abordan los conceptos clave del turismo, la relevancia del patrimonio cultural y natural, y su relación directa con la actividad turística.")
       .col-auto(data-aos="fade-left")
-        a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto

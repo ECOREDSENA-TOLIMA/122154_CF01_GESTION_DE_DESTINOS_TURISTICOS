@@ -89,7 +89,7 @@
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.2 Atractivos
 
-    p.mb-5(data-aos="fade-left") Los atractivos turísticos son elementos esenciales que capturan la atención del visitante y lo motivan a desplazarse hacia un destino. Estos atractivos pueden clasificarse en dos categorías principales: naturales y culturales.
+    p.mb-5(data-aos="fade-left") Los atractivos turísticos son elementos esenciales que captan la atención del visitante y lo motivan a desplazarse hacia un destino. Estos atractivos pueden clasificarse en dos categorías principales: naturales y culturales.
 
     TabsC.color-acento-botones.mb-5(data-aos="flip-up")
       .py-3.py-md-4(titulo="Los atractivos naturales")

@@ -255,7 +255,7 @@
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
         .cajon.cajon.color-secundario.p-4.mb-4
-          p.mb-0 <b>Ejemplo</b>: Los gestores turísticos deben tener en cuenta las motivaciones de cada tipo de turista al planificar sus infraestructuras y servicios. Por ejemplo, un destino que busca atraer a turistas de aventura debe priorizar la creación de rutas de senderismo seguras y la oferta de guías experimentados, mientras que un destino cultural debe enfocarse en la preservación y promoción de su patrimonio histórico.
+          p.mb-0 Los gestores turísticos deben tener en cuenta las motivaciones de cada tipo de turista al planificar sus infraestructuras y servicios. Por ejemplo, un destino que busca atraer a turistas de aventura debe priorizar la creación de rutas de senderismo seguras y la oferta de guías experimentados, mientras que un destino cultural debe enfocarse en la preservación y promoción de su patrimonio histórico.
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-xl-4.col-lg-6.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
