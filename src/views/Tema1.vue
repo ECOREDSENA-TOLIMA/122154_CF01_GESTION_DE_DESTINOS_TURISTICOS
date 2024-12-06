@@ -14,7 +14,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img01.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Uno de los hitos clave en la historia del turismo moderno es el establecimiento de las primeras agencias de viajes, como Thomas Cook, que en 1841 organizó el primer viaje organizado para un grupo de personas en tren desde Leicester a Loughborough. Este evento marcó el comienzo de los viajes organizados, permitiendo a las personas acceder a experiencias turísticas de manera más estructurada y cómoda. Thomas Cook no solo promovió el turismo de ocio, sino que también ayudó a popularizar el turismo cultural y educativo.
+        p.mb-0 Uno de los hitos clave en la historia del turismo moderno es el establecimiento de las primeras agencias de viajes, como Thomas Cook, que en 1841 creó el primer viaje organizado para un grupo de personas en tren desde Leicester a Loughborough. Este evento marcó el comienzo de los viajes organizados, permitiendo a las personas acceder a experiencias turísticas de manera más estructurada y cómoda. Thomas Cook no solo promovió el turismo de ocio, sino que también ayudó a popularizar el turismo cultural y educativo.
           br
           br
           | 
